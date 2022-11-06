@@ -16,8 +16,9 @@
 
 # Livres
 <details>
-<summary>Isaac Asimov (a prendre dans l'ordre ci-desous)</summary>
-  
+<summary>Isaac Asimov (cliquez pour afficher)</summary>
+
+## (a prendre dans l'ordre ci-desous)
 ### Cycle de Fondation
 - Fondation
 - Fondation et Empire
