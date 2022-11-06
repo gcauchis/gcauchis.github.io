@@ -1,7 +1,4 @@
-# Vêtements 
-- veste (feutre ou cuir)
-
-# livres et mangas
+# Light Novels et Mangas
 - [voir Amazon](https://www.amazon.fr/hz/wishlist/ls/N2LON7I7DD9B?ref_=wl_share)
 
 # BD
@@ -37,6 +34,9 @@
 - Les Courants de l'espace
 - Cailloux dans le ciel
 </details>
+
+# Vêtements 
+- veste (feutre ou cuir)
 
 # Maison
 - Grosse gammel (qui pase completement au four)
