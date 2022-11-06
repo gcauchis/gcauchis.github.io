@@ -15,7 +15,9 @@
 - les naufragés d'ythaq 3+
 
 # Livres
-## Isaac Asimov (a prendre dans l'ordre ci-desous)
+<details>
+<summary>Isaac Asimov (a prendre dans l'ordre ci-desous)</summary>
+  
 ### Cycle de Fondation
 - Fondation
 - Fondation et Empire
@@ -34,6 +36,7 @@
 - Tyrann
 - Les Courants de l'espace
 - Cailloux dans le ciel
+</details>
 
 # maison
 - Grosse gammel (qui pase completement au four)
