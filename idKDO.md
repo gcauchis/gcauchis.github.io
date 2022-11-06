@@ -1,5 +1,4 @@
-
-# vêtements 
+# Vêtements 
 - veste (feutre ou cuir)
 
 # livres et mangas
@@ -18,7 +17,7 @@
 <details>
 <summary>Isaac Asimov (cliquez pour afficher)</summary>
 
-## (a prendre dans l'ordre ci-desous)
+## A prendre dans l'ordre ci-desous
 ### Cycle de Fondation
 - Fondation
 - Fondation et Empire
@@ -39,28 +38,28 @@
 - Cailloux dans le ciel
 </details>
 
-# maison
+# Maison
 - Grosse gammel (qui pase completement au four)
 - cafetière (Senseo ou qui fait tout-en-un)
 - desserte de bureau (noir)
 - Tables de nuit (couleur chêne blanc) (2)
 
-# électronique
+# Electronique
 - Eceinte bluetooth maison
 - Eceinte bluetooth voiture
 
-# informatique
+# Informatique
 - clavier mécanique au choix :
     - [champions-bane](https://designedby.gg/product/champions-bane/)
-	- [ironclad-noir](https://designedby.gg/product/ironclad-noir/)
+    - [ironclad-noir](https://designedby.gg/product/ironclad-noir/)
 - [oculus : Meta Quest 2 — Casque de réalité virtuelle](https://amzn.eu/d/bOWv0qW)
 
 # Jeux
-## jeux de sociétés
+## Jeux de sociétés
 - Pylos
 - Azul
 
-## jeux switch (par ordre de préférence)
+## Jeux switch (par ordre de préférence)
 - Xenoblade Chronicles 3
 - Disgaea 6: Defiance Of Destiny (ou un des 5 précédent opus)
 - Tales of Vesperia: Definitive Edition
@@ -70,8 +69,6 @@
 - Baldur's Gate 1 and 2: Enhanced Editions / Planescape Torment and Icewind Dale Enhanced Editions
 - Divinity : Original Sin 2
 
-## jeux PC (Steam)
+## Jeux PC (Steam)
 - [Warhammer 40,000: Chaos Gate - Daemonhunters](https://store.steampowered.com/app/1611910/Warhammer_40000_Chaos_Gate__Daemonhunters/) ([moins cher ici](https://www.instant-gaming.com/fr/8972-acheter-warhammer-40-000-chaos-gate-daemonhunters-pc-jeu-steam-europe/?utm_medium=email&utm_source=newsletter&utm_campaign=Warhammer%2040000%20Chaos%20Gate%20Daemonhunters))
 - [Tales of Arise](https://store.steampowered.com/app/740130/Tales_of_Arise/)
-	
-
