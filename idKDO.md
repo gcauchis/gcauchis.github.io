@@ -49,7 +49,8 @@
 
 ## Vêtements 
 
-* veste (feutre ou cuir)
+* Veste (feutre ou cuir)
+* Chaussures [Clarks 45](https://amzn.eu/d/aqvhcT9)
 
 ## Maison
 
