@@ -2,7 +2,7 @@
 
 ## Light Novels et Mangas
 
-* [voir Amazon](https://www.amazon.fr/hz/wishlist/ls/N2LON7I7DD9B?ref_=wl_share)
+* [Voir Amazon](https://www.amazon.fr/hz/wishlist/ls/N2LON7I7DD9B?ref_=wl_share)
 
 ## BD
 
