@@ -56,11 +56,11 @@
 ### Cuisine
 
 * Grosse gammel (qui pase completement au four)
-* cafetière (Senseo ou qui fait tout-en-un)
+* Cafetière (Senseo ou qui fait tout-en-un)
 
 ### Meubles
 
-* desserte de bureau (noir)
+* Desserte de bureau (noir, sur roulettes)
 * Tables de nuit (couleur chêne blanc) (2)
 
 ## Electronique
@@ -70,10 +70,10 @@
 
 ## Informatique
 
-* clavier mécanique au choix :
+* Clavier mécanique au choix :
     * [champions-bane](https://designedby.gg/product/champions-bane/)
     * [ironclad-noir](https://designedby.gg/product/ironclad-noir/)
-* [oculus : Meta Quest 2 — Casque de réalité virtuelle](https://amzn.eu/d/bOWv0qW)
+* [Oculus : Meta Quest 2 — Casque de réalité virtuelle](https://amzn.eu/d/bOWv0qW)
 
 ## Jeux
 
