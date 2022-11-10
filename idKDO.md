@@ -50,6 +50,8 @@
 ## Vêtements 
 
 * Veste (feutre ou cuir)
+* Pyjama
+* Pantoufles
 
 ## Maison
 
