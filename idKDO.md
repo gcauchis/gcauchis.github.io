@@ -87,10 +87,10 @@
 ### Jeux switch (par ordre de préférence)
 
 * Xenoblade Chronicles 3
+* Fire Emblem Three Houses
 * Disgaea 6: Defiance Of Destiny (ou un des 5 précédent opus)
 * Tales of Vesperia: Definitive Edition
 * Dragon Quest XI: Les combattants de la destinée
-* Fire Emblem Three Houses
 * The Legend of Zelda : Skyward Sword HD
 * Baldur's Gate 1 and 2: Enhanced Editions / Planescape Torment and Icewind Dale Enhanced Editions
 * Divinity : Original Sin 2
