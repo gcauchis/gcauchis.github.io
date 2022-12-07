@@ -57,7 +57,7 @@
 
 ### Cuisine
 
-* Grosse gammel (qui pase completement au four)
+* ~~Grosse gammel (qui pase completement au four)~~
 * Cafetière (Senseo ou qui fait tout-en-un)
 
 ### Meubles
