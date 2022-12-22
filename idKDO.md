@@ -45,7 +45,13 @@
 * Les Courants de l'espace
 * Cailloux dans le ciel
 
+</details><details>
+<summary>Peter F. Hamilton (cliquez pour afficher)</summary>
+
+### [Voir page wikipedia](https://fr.wikipedia.org/wiki/Peter_F._Hamilton#Romans)
+
 </details>
+
 
 ## Vêtements 
 
