@@ -103,5 +103,4 @@
 
 ### Jeux PC (Steam)
 
-* [Warhammer 40,000: Chaos Gate - Daemonhunters](https://store.steampowered.com/app/1611910/Warhammer_40000_Chaos_Gate__Daemonhunters/) ([moins cher ici](https://www.instant-gaming.com/fr/8972-acheter-warhammer-40-000-chaos-gate-daemonhunters-pc-jeu-steam-europe/?utm_medium=email&utm_source=newsletter&utm_campaign=Warhammer%2040000%20Chaos%20Gate%20Daemonhunters))
 * [Tales of Arise](https://store.steampowered.com/app/740130/Tales_of_Arise/)
