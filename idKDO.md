@@ -6,8 +6,8 @@
 
 ## BD
 
-* Chroniques de la lune noire 20+ (j'ai jusqu'au 19)
-* Orbital 6+
+* ~~Chroniques de la lune noire 22+~~
+* Orbital 6+ (j'ai jusqu'au 5)
 * Isabellae 2+
 * La quête de l'oiseau du temps 5+
 * Okko 3+
@@ -23,11 +23,11 @@
 
 #### Cycle de Fondation
 
-* Fondation
-* Fondation et Empire
-* Seconde Fondation
-* Fondation foudroyée (Optionnel)
-* Terre et Fondation (Optionnel)
+* ~~Fondation~~
+* ~~Fondation et Empire~~
+* ~~Seconde Fondation~~
+* ~~Fondation foudroyée (Optionnel)~~
+* ~~Terre et Fondation (Optionnel)~~
 * Prélude à Fondation (Optionnel)
 * L'Aube de Fondation (Optionnel)
 
@@ -56,7 +56,7 @@
 ## Vêtements 
 
 * Veste (feutre ou cuir)
-* Pyjama
+* ~~Pyjama~~
 * Pantoufles
 
 ## Maison
@@ -87,7 +87,7 @@
 
 ### Jeux de sociétés
 
-* Pylos
+* ~~Pylos~~
 * Azul
 
 ### Jeux switch (par ordre de préférence)
