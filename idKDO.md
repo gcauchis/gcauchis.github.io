@@ -6,8 +6,8 @@
 
 ## BD
 
-* ~~Chroniques de la lune noire 22+~~
-* Orbital 6+ (j'ai jusqu'au 5)
+* Chroniques de la lune noire 22+ (j'ai jusqu'au 21)
+* Orbital 6+
 * Isabellae 2+
 * La quête de l'oiseau du temps 5+
 * Okko 3+
@@ -63,7 +63,6 @@
 
 ### Cuisine
 
-* ~~Grosse gammel (qui pase completement au four)~~
 * Cafetière (Senseo ou qui fait tout-en-un)
 
 ### Meubles
@@ -87,7 +86,6 @@
 
 ### Jeux de sociétés
 
-* ~~Pylos~~
 * Azul
 
 ### Jeux switch (par ordre de préférence)
