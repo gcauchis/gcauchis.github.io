@@ -72,6 +72,7 @@
 
 ## Electronique
 
+- [Belle manette de switch](https://nyxigaming.com/products/nyxi-wizard-wirleless-joy-pad-for-switch-switch-oled)
 - Eceinte bluetooth maison
 - Eceinte bluetooth voiture
 
