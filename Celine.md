@@ -1,6 +1,6 @@
 # Idées Cadeaux Céline
 
-## Divers 
+## Divers
 
 - Bon pour massage ou soin
 - détartreur dentaires à ultrasons
@@ -11,7 +11,7 @@
 
 - cadre photo pèle mêle
 - Congélateur armoire à tiroir pour le garage
-- Un robot cuiseur  
+- Un robot cuiseur
 - bon chez confo, ikea, maison du monde …
 - de l’argent pour acheter des meubles
 - tables de chevet
@@ -25,9 +25,9 @@
 
 ## Sport
 
-- Porte vélo pour voiture (pour 2 vélo) 
+- Porte vélo pour voiture (pour 2 vélo)
 
-## Livres 
+## Livres
 
 ### Kathy reich – collection poche
 
