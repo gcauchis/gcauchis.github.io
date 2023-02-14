@@ -96,7 +96,6 @@
 
 ### Jeux switch (par ordre de préférence)
 
-- Xenoblade Chronicles 3
 - Disgaea 6: Defiance Of Destiny (ou un des 5 précédent opus)
 - Tales of Vesperia: Definitive Edition
 - Dragon Quest XI: Les combattants de la destinée
