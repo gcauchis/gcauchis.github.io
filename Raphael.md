@@ -2,10 +2,10 @@
 
 ## Maison
 
-- Tour d'observation
+- ~~Tour d'observation~~
 
 ## Jeux
 
-- Bloko
+- ~~Bloko~~
 - Voitures
 - Camion de pompier
