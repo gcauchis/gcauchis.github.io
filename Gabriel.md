@@ -68,7 +68,6 @@
 ### Meubles
 
 - Desserte de bureau (noir, sur roulettes, hauteur 76cm)
-- Tables de nuit (couleur chêne blanc) (2)
 
 ## Electronique
 
