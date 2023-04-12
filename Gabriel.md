@@ -96,6 +96,7 @@
 
 ### Jeux switch (par ordre de préférence)
 
+- [The Legend of Zelda : Tears of the Kingdom](https://www.amazon.fr/Legend-Zelda-Tears-Kingdom/dp/B0BVW3SJMF/ref=sr_1_2?keywords=switch+zelda&qid=1681328189&sprefix=switch+zeld%2Caps%2C91&sr=8-2)
 - Disgaea 6: Defiance Of Destiny (ou un des 5 précédent opus)
 - Tales of Vesperia: Definitive Edition
 - Dragon Quest XI: Les combattants de la destinée
