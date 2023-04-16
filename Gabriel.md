@@ -1,10 +1,12 @@
 # Idées Cadeaux Gabriel
 
-## Light Novels et Mangas
+## Livres
+
+### Light Novels et Mangas
 
 - [Voir Amazon](https://www.amazon.fr/hz/wishlist/ls/N2LON7I7DD9B?ref_=wl_share)
 
-## BD
+### BD
 
 - Chroniques de la lune noire 22+ (j'ai jusqu'au 21)
 - Orbital 6+
@@ -14,7 +16,7 @@
 - Samurai 13+
 - les naufragés d'ythaq 3+
 
-## Livres
+### Roman
 
 <details>
 <summary>Isaac Asimov (cliquez pour afficher)</summary>
