@@ -1,10 +1,15 @@
 # Idées Cadeaux Gabriel
 
+- [Voir Amazon](https://www.amazon.fr/hz/wishlist/ls/N2LON7I7DD9B?ref_=wl_share)
+
 ## Livres
 
-### Light Novels et Mangas
+### Light Novels
 
-- [Voir Amazon](https://www.amazon.fr/hz/wishlist/ls/N2LON7I7DD9B?ref_=wl_share)
+- [So I'm a Spider, So What?, Vol. 13+](https://amzn.eu/d/iYS5EiI)
+- [Death March to the Parallel World Rhapsody, Vol. 13+](https://amzn.eu/d/ji4SzZa)
+- [That Time I Got Reincarnated as a Slime, Vol. 8+](https://amzn.eu/d/dPnS9sN)
+- [By the Grace of the Gods 1+](https://amzn.eu/d/iBv1MlK)
 
 ### BD
 
