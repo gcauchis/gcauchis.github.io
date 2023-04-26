@@ -9,19 +9,16 @@
 
 ## Maison
 
-- cadre photo pèle mêle
 - Congélateur armoire à tiroir pour le garage
 - Un robot cuiseur
 - bon chez confo, ikea, maison du monde …
 - de l’argent pour acheter des meubles
-- tables de chevet
 - meuble chaussure
 
 ## Bijoux
 
 - Un bijou eventuellement type bracelet ou on peut rajouter des breloques
 - bracelet avec des pierres
-- bague
 
 ## Sport
 
