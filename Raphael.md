@@ -2,10 +2,9 @@
 
 ## Maison
 
-- ~~Tour d'observation~~
+- Petit fauteuil
 
 ## Jeux
 
-- ~~Bloko~~
 - Voitures
 - Camion de pompier
