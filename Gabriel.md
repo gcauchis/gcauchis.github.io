@@ -61,41 +61,6 @@
 
 </details>
 
-## Vêtements
-
-- Polos
-- Veste légère
-- Manteau/Veste (feutre ou cuir)
-- Pantoufles
-
-## Maison
-
-### Cuisine
-
-- Cafetière (Senseo ou qui fait tout-en-un)
-
-### Meubles
-
-- Desserte de bureau (noir, sur roulettes, hauteur 76cm)
-
-## Electronique
-
-- Switch
-  - Manettes au choix :
-    - [Model 1](https://nyxigaming.com/products/nyxi-wizard-wirleless-joy-pad-for-switch-switch-oled)
-    - [Model 2](https://nyxigaming.com/products/nyxi-hyperion-meteor-light-wireless-joy-pad)
-    - [Model 3](https://nyxigaming.com/products/nyxi-wireless-joy-con-pad-with-color-led-lights-for-nintendo-switch)
-  - [Sacoche de rangement](https://nyxigaming.com/products/nyxi-upgraded-carrying-case-for-wireless-joy-pad-nintendo-switch)
-- Eceinte bluetooth maison
-- Eceinte bluetooth voiture
-
-## Informatique
-
-- Clavier mécanique au choix :
-  - [champions-bane](https://designedby.gg/product/champions-bane/)
-  - [ironclad-noir](https://designedby.gg/product/ironclad-noir/)
-- [Oculus : Meta Quest 2 — Casque de réalité virtuelle](https://amzn.eu/d/bOWv0qW)
-
 ## Jeux
 
 ### Jeux de sociétés
@@ -115,3 +80,37 @@
 ### Jeux PC (Steam)
 
 - [Tales of Arise](https://store.steampowered.com/app/740130/Tales_of_Arise/)
+
+## Electronique
+
+- Switch
+  - Manettes au choix :
+    - [Model 1](https://nyxigaming.com/products/nyxi-wizard-wirleless-joy-pad-for-switch-switch-oled)
+    - [Model 2](https://nyxigaming.com/products/nyxi-wireless-joy-con-pad-with-color-led-lights-for-nintendo-switch)
+  - [Sacoche de rangement](https://nyxigaming.com/products/nyxi-upgraded-carrying-case-for-wireless-joy-pad-nintendo-switch)
+- Eceinte bluetooth maison
+- Eceinte bluetooth voiture
+
+## Informatique
+
+- Clavier mécanique au choix :
+  - [champions-bane](https://designedby.gg/product/champions-bane/)
+  - [ironclad-noir](https://designedby.gg/product/ironclad-noir/)
+- [Oculus : Meta Quest 2 — Casque de réalité virtuelle](https://amzn.eu/d/bOWv0qW)
+
+## Vêtements
+
+- Polos
+- Veste légère
+- Manteau/Veste (feutre ou cuir)
+- Pantoufles
+
+## Maison
+
+### Cuisine
+
+- Cafetière (Senseo ou qui fait tout-en-un)
+
+### Meubles
+
+- Desserte de bureau (noir, sur roulettes, hauteur 76cm)
