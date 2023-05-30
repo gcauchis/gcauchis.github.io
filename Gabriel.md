@@ -6,7 +6,7 @@
 
 ### Light Novels
 
-- [So I'm a Spider, So What?, Vol. 13+](https://amzn.eu/d/iYS5EiI) (j'ai jusqu'au 12)
+- [So I'm a Spider, So What?, Vol. 15+](https://amzn.eu/d/fbXAYtx) (j'ai jusqu'au 14)
 - [Death March to the Parallel World Rhapsody, Vol. 13+](https://amzn.eu/d/ji4SzZa)
 - [That Time I Got Reincarnated as a Slime, Vol. 8+](https://amzn.eu/d/dPnS9sN)
 - [By the Grace of the Gods 1+](https://amzn.eu/d/iBv1MlK)
@@ -66,7 +66,6 @@
 ### Jeux de sociétés
 
 - [Carcassonne](https://www.amazon.fr/dp/B07D19D9QJ/?coliid=IEKV560ENP84U&colid=N2LON7I7DD9B&psc=0&ref_=lv_ov_lig_dp_it)
-- [Azul](https://www.amazon.fr/Plan-Games-Azul-Version-Française/dp/B07FCLL8JB/ref=sr_1_2?__mk_fr_FR=ÅMÅŽÕÑ&crid=21NUHPVP68BND&keywords=azul&qid=1681791061&s=toys&sprefix=azul%2Ctoys%2C77&sr=1-2)
 
 ### Jeux switch (par ordre de préférence)
 
@@ -106,10 +105,6 @@
 - Pantoufles
 
 ## Maison
-
-### Cuisine
-
-- Cafetière (Senseo ou qui fait tout-en-un)
 
 ### Meubles
 
