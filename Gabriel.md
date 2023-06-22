@@ -87,9 +87,9 @@
 
 ## Informatique
 
-- Clavier mécanique au choix :
-  - [champions-bane](https://designedby.gg/product/champions-bane/)
+- Clavier mécanique au choix : (Choisir les switch "Red Blood")
   - [ironclad-noir](https://designedby.gg/product/ironclad-noir/)
+  - [champions-bane](https://designedby.gg/product/champions-bane/)
 - [Oculus : Meta Quest 2 — Casque de réalité virtuelle](https://amzn.eu/d/bOWv0qW)
 
 ## Vêtements
