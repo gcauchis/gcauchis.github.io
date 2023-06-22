@@ -37,7 +37,7 @@
 
 ##### Cycle des robots
 
-- [x] Les Robots (Optionnel)
+- [ ] Les Robots (Optionnel)
 - [x] Les Cavernes d'acier
 - [ ] Face aux feux du soleil
 - [ ] Les Robots de l'aube
