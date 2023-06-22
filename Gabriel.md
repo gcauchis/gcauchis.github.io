@@ -41,7 +41,7 @@
 - [x] Les Cavernes d'acier
 - [ ] Face aux feux du soleil
 - [ ] Les Robots de l'aube
-- [ ] Les Robots et l'Empire
+- [x] Les Robots et l'Empire
 
 ##### Cycle de l'Empire
 
