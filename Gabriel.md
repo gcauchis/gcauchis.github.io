@@ -30,7 +30,7 @@
 - [x] ~~Fondation~~
 - [x] ~~Fondation et Empire~~
 - [x] ~~Seconde Fondation~~
-- [x] ~~Fondation foudroyée (Optionnel)~~
+- [ ] ~~Fondation foudroyée (Optionnel)~~
 - [ ] ~~Terre et Fondation (Optionnel)~~
 - [ ] Prélude à Fondation (Optionnel)
 - [ ] L'Aube de Fondation (Optionnel)
