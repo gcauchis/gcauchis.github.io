@@ -23,43 +23,35 @@
 
 ### Roman
 
-<details>
-<summary>Isaac Asimov (cliquez pour afficher)</summary>
+#### Isaac Asimov
 
-### A prendre dans l'ordre ci-desous
+##### Cycle de Fondation
 
-#### Cycle de Fondation
+- [x] ~~Fondation~~
+- [x] ~~Fondation et Empire~~
+- [x] ~~Seconde Fondation~~
+- [x] ~~Fondation foudroyée (Optionnel)~~
+- [x] ~~Terre et Fondation (Optionnel)~~
+- [ ] Prélude à Fondation (Optionnel)
+- [ ] L'Aube de Fondation (Optionnel)
 
-- ~~Fondation~~
-- ~~Fondation et Empire~~
-- ~~Seconde Fondation~~
-- ~~Fondation foudroyée (Optionnel)~~
-- ~~Terre et Fondation (Optionnel)~~
-- Prélude à Fondation (Optionnel)
-- L'Aube de Fondation (Optionnel)
+##### Cycle des robots
 
-#### Cycle des robots
+- [ ] Les Robots (Optionnel)
+- [ ] Les Cavernes d'acier
+- [ ] Face aux feux du soleil
+- [ ] Les Robots de l'aube
+- [ ] Les Robots et l'Empire
 
-- Les Robots (Optionnel)
-- Les Cavernes d'acier
-- Face aux feux du soleil
-- Les Robots de l'aube
-- Les Robots et l'Empire
+##### Cycle de l'Empire
 
-#### Cycle de l'Empire
+- [ ] Tyrann
+- [ ] Les Courants de l'espace
+- [ ] Cailloux dans le ciel
 
-- Tyrann
-- Les Courants de l'espace
-- Cailloux dans le ciel
+#### Peter F. Hamilton
 
-</details>
-
-<details>
-<summary>Peter F. Hamilton (cliquez pour afficher)</summary>
-
-### [Voir page wikipedia](https://fr.wikipedia.org/wiki/Peter_F._Hamilton#Romans)
-
-</details>
+- [Voir page wikipedia](https://fr.wikipedia.org/wiki/Peter_F._Hamilton#Romans)
 
 ## Jeux
 
@@ -76,8 +68,11 @@
 - Baldur's Gate 1 and 2: Enhanced Editions / Planescape Torment and Icewind Dale Enhanced Editions
 - Divinity : Original Sin 2
 
-### Jeux PC (Steam)
+### Jeux PC
 
+#### Steam
+
+- [Starfield](https://store.steampowered.com/app/1716740/STARFIELD/)
 - [Tales of Arise](https://store.steampowered.com/app/740130/Tales_of_Arise/)
 
 ## Electronique
