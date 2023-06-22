@@ -28,20 +28,20 @@
 
 ### Kathy reich – collection poche
 
-- La Mort sans visage
-- Exhumations
-- Code
-- Risque
-- Rival
+- [ ] La Mort sans visage
+- [ ] Exhumations
+- [ ] Code
+- [ ] Risque
+- [ ] Rival
 
 ### Lisa Gardner
 
-- Le septième mois
-- Retrouve moi
-- N’avoue jamais
-- on ne meurt que deux fois
+- [ ] Le septième mois
+- [ ] Retrouve moi
+- [ ] N’avoue jamais
+- [ ] On ne meurt que deux fois
 
 ### Autres
 
-- crime en image - nature et découvertes
-- la trilogie de hurle - diana wynn jones
+- [ ] crime en image - nature et découvertes
+- [ ] la trilogie de hurle - diana wynn jones
