@@ -32,7 +32,7 @@
 - [x] ~~Seconde Fondation~~
 - [x] ~~Fondation foudroyée (Optionnel)~~
 - [ ] ~~Terre et Fondation (Optionnel)~~
-- [x] Prélude à Fondation (Optionnel)
+- [ ] Prélude à Fondation (Optionnel)
 - [x] L'Aube de Fondation (Optionnel)
 
 ##### Cycle des robots
