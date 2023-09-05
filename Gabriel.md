@@ -73,8 +73,9 @@
 
 #### Steam
 
-- [Starfield](https://store.steampowered.com/app/1716740/STARFIELD/)
+- [Baldur's Gate 3](https://store.steampowered.com/app/1086940/Baldurs_Gate_3/)
 - [Divinity Original Sin 2](https://store.steampowered.com/app/435150/Divinity_Original_Sin_2__Definitive_Edition/)
+- [Starfield](https://store.steampowered.com/app/1716740/STARFIELD/)
 - [Tales of Arise](https://store.steampowered.com/app/740130/Tales_of_Arise/)
 
 ## Electronique
