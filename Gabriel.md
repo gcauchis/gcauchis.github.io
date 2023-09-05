@@ -61,6 +61,7 @@
 
 ### Jeux switch (par ordre de préférence)
 
+- [Advance Wars 1+2 : Re-Boot Camp](https://www.amazon.fr/Advance-Wars-Re-Boot-Nintendo-Switch/dp/B097F6P63W/ref=sr_1_1?__mk_fr_FR=ÅMÅŽÕÑ&crid=1EU8DY3NIHHE4&keywords=Advance+Wars+1%2B2%3A+Re-Boot+Camp+Switch&qid=1693885585&sprefix=advance+wars+1%2B2+re-boot+camp+switch%2Caps%2C160&sr=8-1)
 - Disgaea 6: Defiance Of Destiny (ou un des 5 précédent opus)
 - Tales of Vesperia: Definitive Edition
 - Dragon Quest XI: Les combattants de la destinée
