@@ -10,6 +10,7 @@
 - [Death March to the Parallel World Rhapsody, Vol. 13+](https://amzn.eu/d/ji4SzZa)
 - [That Time I Got Reincarnated as a Slime, Vol. 8+](https://amzn.eu/d/dPnS9sN)
 - [By the Grace of the Gods 1+](https://amzn.eu/d/iBv1MlK)
+- [The Saga of Tanya the Evil 6+](https://www.amazon.fr/Saga-Tanya-Evil-light-novel/dp/0316560715/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=)
 
 ### BD
 
@@ -19,7 +20,7 @@
 - La quête de l'oiseau du temps 5+
 - Okko 3+
 - Samurai 13+
-- les naufragés d'ythaq 3+
+- Les naufragés d'ythaq 3+
 
 ### Roman
 
@@ -57,6 +58,7 @@
 
 ### Jeux de sociétés
 
+- [7 Wonders Duel](https://www.amazon.fr/Repos-Production-Wonders-Autonome-Joueurs/dp/B014DMSTXK/ref=sr_1_1_sspa?crid=2IHGROZH9UA52&keywords=seven%2Bwonders%2Bduel&qid=1695699845&sprefix=seven%2Bwonder%2Caps%2C71&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1) (il existe aussi deux extensions)
 - [Carcassonne](https://www.amazon.fr/dp/B07D19D9QJ/?coliid=IEKV560ENP84U&colid=N2LON7I7DD9B&psc=0&ref_=lv_ov_lig_dp_it)
 
 ### Jeux switch (par ordre de préférence)
