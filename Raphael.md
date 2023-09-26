@@ -8,3 +8,7 @@
 
 - Voitures
 - Camion de pompier
+
+## Vêtements
+
+- Tenues en 24 mois
