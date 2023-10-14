@@ -3,9 +3,7 @@
 ## Divers
 
 - Bon pour massage ou soin
-- détartreur dentaires à ultrasons
 - place pour un spectacle d'humoriste ou autre ballet...
-- produits relaxant pour bain
 
 ## Maison
 
@@ -13,12 +11,11 @@
 - Un robot cuiseur
 - bon chez confo, ikea, maison du monde …
 - de l’argent pour acheter des meubles
-- meuble chaussure
+- meuble chaussures
 
 ## Bijoux
 
 - Un bijou eventuellement type bracelet ou on peut rajouter des breloques
-- bracelet avec des pierres
 
 ## Sport
 
