@@ -6,11 +6,18 @@
 
 ### Light Novels
 
+#### Anglais
+
 - [So I'm a Spider, So What?, Vol. 15+](https://amzn.eu/d/fbXAYtx) (j'ai jusqu'au 14)
 - [Death March to the Parallel World Rhapsody, Vol. 13+](https://amzn.eu/d/ji4SzZa)
 - [That Time I Got Reincarnated as a Slime, Vol. 8+](https://amzn.eu/d/dPnS9sN)
 - [By the Grace of the Gods 1+](https://amzn.eu/d/iBv1MlK)
 - [The Saga of Tanya the Evil 6+](https://www.amazon.fr/Saga-Tanya-Evil-light-novel/dp/0316560715/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=)
+- [Arifureta 7+](https://amzn.eu/d/74KBMGr)
+
+#### Français
+
+- [Les Carnets de l'Apothicaire - Tome 1 +](https://amzn.eu/d/jftfOLn)
 
 ### BD
 
