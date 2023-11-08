@@ -17,6 +17,7 @@
 - [Bofuri 1+](https://amzn.eu/d/hET5ZDS)
 - [Ascendance of a Bookworm 1+](https://amzn.eu/d/adylOjg)
 - [Tearmoon Empire 1+](https://amzn.eu/d/aJma4Fy)
+- [I'm the Evil Lord of an Intergalactic Empire ! 1+](https://amzn.eu/d/2HuMn9t)
 
 #### Français
 
