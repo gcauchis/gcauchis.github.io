@@ -68,6 +68,7 @@
 
 ### Jeux de sociétés
 
+- Gloomhaven
 - [7 Wonders Duel](https://www.amazon.fr/Repos-Production-Wonders-Autonome-Joueurs/dp/B014DMSTXK/ref=sr_1_1_sspa?crid=2IHGROZH9UA52&keywords=seven%2Bwonders%2Bduel&qid=1695699845&sprefix=seven%2Bwonder%2Caps%2C71&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1) (il existe aussi deux extensions)
 - [Carcassonne](https://www.amazon.fr/dp/B07D19D9QJ/?coliid=IEKV560ENP84U&colid=N2LON7I7DD9B&psc=0&ref_=lv_ov_lig_dp_it)
 
