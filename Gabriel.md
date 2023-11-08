@@ -14,6 +14,9 @@
 - [By the Grace of the Gods 1+](https://amzn.eu/d/iBv1MlK)
 - [The Saga of Tanya the Evil 6+](https://www.amazon.fr/Saga-Tanya-Evil-light-novel/dp/0316560715/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=)
 - [Arifureta 7+](https://amzn.eu/d/74KBMGr)
+- [Bofuri 1+](https://amzn.eu/d/hET5ZDS)
+- [Ascendance of a Bookworm 1+](https://amzn.eu/d/adylOjg)
+- [Tearmoon Empire 1+](https://amzn.eu/d/aJma4Fy)
 
 #### Français
 
