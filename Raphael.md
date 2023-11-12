@@ -14,4 +14,5 @@
 
 ## Vêtements (24 mois)
 
-- Turbulette hiver/printemps
+- ~~Turbulette hiver/printemps~~
+- Bavoir avec reservoire
