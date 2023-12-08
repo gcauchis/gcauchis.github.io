@@ -56,9 +56,9 @@
 - [ ] Claude Cancès – brigade mondaine
 - [ ] des lights novels des animés que nous avons regardé et que j’ai bien aimé... – voir avec Gab pour les titres
 
-Eventuellement mais sans plus :
+### Eventuellement mais sans plus
 
-### Kathy reich – collection poche
+#### Kathy reich – collection poche
 
 - [ ] La Mort sans visage
 - [ ] Dossiers non résolus, Robert Laffont, 2022 ((en) Cold, Cold Bones, 2022)
@@ -68,7 +68,7 @@ Eventuellement mais sans plus :
 - [ ] Risque
 - [ ] Rival
 
-### Lisa Gardner - pocket
+#### Lisa Gardner - pocket
 
 - [ ] Le septième mois
 - [ ] Retrouve moi
@@ -77,7 +77,7 @@ Eventuellement mais sans plus :
 - [ ] On ne meurt que deux fois
 - [ ] Preuves d'amour
 
-### Peter James - pocket
+#### Peter James - pocket
 
 - [ ] a deux pas de la mort
 - [ ] aux prises avec la mort
@@ -86,7 +86,7 @@ Eventuellement mais sans plus :
 - [ ] chaque seconde compte
 - [ ] mort au premier regard
 
-### anne perry - collection 10-18
+#### anne perry - collection 10-18
 
 - [ ] Marée funèbre
 - [ ] le cadavre de bluegates fileds - collection 10-18
