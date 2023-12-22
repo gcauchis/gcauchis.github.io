@@ -122,4 +122,4 @@
 
 ### Meubles
 
-- Desserte de bureau (noir, sur roulettes, hauteur max 74cm)
+- Desserte de bureau (tirroires, noir, sur roulettes, hauteur max 74cm)
