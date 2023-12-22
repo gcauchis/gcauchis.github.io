@@ -116,6 +116,7 @@
 - Veste légère
 - Manteau/Veste (feutre ou cuir)
 - Pantoufles
+- Mouchoir en tissus
 
 ## Maison
 
