@@ -4,7 +4,6 @@
 
 - Bon pour massage ou soin
 - place pour un spectacle d'humoriste ou autre ballet...
-- [bouillotte cervicale](https://www.natureetdecouvertes.com/bien-etre/relaxation-sommeil/bouillottes-coussins-chauffants/coussin-cervicales-chauffant-lotus-vert-97375600)
 - sac à main marron foncé ou noir – taille médiane – (qui ferme complétement avec fermeture éclaire pas juste un bouton pression)
 
 ## Jeux
@@ -18,11 +17,6 @@
 - bon chez confo, ikea, maison du monde …
 - de l’argent pour acheter des meubles
 - meuble chaussure
-
-## Musique
-
-- album de Saez
-- album de grand corps malade
 
 ## Bijoux
 
@@ -43,7 +37,6 @@
 - une nouveau tapis de sport pliable
 - Porte vélo pour voiture (pour 2 vélo)
 - [kit sport](https://www.natureetdecouvertes.com/bien-etre/yoga-gym-douce/materiel-pilates/pack-d-exercice-11-pieces-93911050)
-- pantalon fitness long
 - chaussette anti dérapant – je crois qu’on trouve au rayon pilate ou yoga
 
 ## Livres
@@ -55,6 +48,10 @@
 - [ ] la trilogie de hurle - diana wynn jones
 - [ ] Claude Cancès – brigade mondaine
 - [ ] des lights novels des animés que nous avons regardé et que j’ai bien aimé... – voir avec Gab pour les titres
+
+#### Light Novel
+
+- [Tearmoon Empire 2+](https://amzn.eu/d/6kvqu0f)
 
 ### Eventuellement mais sans plus
 

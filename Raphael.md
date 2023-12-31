@@ -7,12 +7,9 @@
 
 ## Jeux
 
-- Camion/Moto porteur
-- Circuit voitures
 - Voitures
 - Camion de pompier
 
 ## Vêtements (24 mois)
 
-- ~~Turbulette hiver/printemps~~
 - Bavoir avec reservoire
