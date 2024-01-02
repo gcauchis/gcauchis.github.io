@@ -52,7 +52,9 @@
 ### Jeux de sociétés
 
 - Gloomhaven
-- Extensions pour: 7 Wonders Duel
+- Extensions pour 7 Wonders Duel
+  - [Agora](https://amzn.eu/d/4GaiYmU)
+  - [Pantheon](https://amzn.eu/d/cwFCRT9)
 - [Carcassonne](https://www.amazon.fr/dp/B07D19D9QJ/?coliid=IEKV560ENP84U&colid=N2LON7I7DD9B&psc=0&ref_=lv_ov_lig_dp_it)
 
 ### Jeux switch (par ordre de préférence)
