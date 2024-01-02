@@ -21,7 +21,7 @@
 
 #### Français
 
-- Les Carnets de l'Apothicaire - Tome 2 + romans/light novel (lien a trouvé)
+- Les Carnets de l'Apothicaire - Tome 2 + romans/light novel (lien a trouvé sortie en mars 2024)
 
 ### BD
 
