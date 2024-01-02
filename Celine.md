@@ -37,7 +37,6 @@
 - une nouveau tapis de sport pliable
 - Porte vélo pour voiture (pour 2 vélo)
 - [kit sport](https://www.natureetdecouvertes.com/bien-etre/yoga-gym-douce/materiel-pilates/pack-d-exercice-11-pieces-93911050)
-- chaussette anti dérapant – je crois qu’on trouve au rayon pilate ou yoga
 
 ## Livres
 
@@ -57,18 +56,14 @@
 
 #### Kathy reich – collection poche
 
-- [ ] La Mort sans visage
 - [ ] Dossiers non résolus, Robert Laffont, 2022 ((en) Cold, Cold Bones, 2022)
 - [ ] la vengeance dans les os
-- [ ] Exhumations
-- [ ] Code
 - [ ] Risque
 - [ ] Rival
 
 #### Lisa Gardner - pocket
 
 - [ ] Le septième mois
-- [ ] Retrouve moi
 - [ ] N’avoue jamais
 - [ ] Au premier regard
 - [ ] On ne meurt que deux fois
