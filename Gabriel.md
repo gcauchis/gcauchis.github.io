@@ -8,10 +8,9 @@
 
 #### Anglais
 
-- [So I'm a Spider, So What?, Vol. 16+](https://amzn.eu/d/5mdfX4d) (j'ai jusqu'au 15)
-- [Death March to the Parallel World Rhapsody, Vol. 14+](https://amzn.eu/d/iOWsTjT)
+- [Death March to the Parallel World Rhapsody, Vol. 14+](https://amzn.eu/d/iOWsTjT) (j'ai jusqu'au 13)
 - [That Time I Got Reincarnated as a Slime, Vol. 8+](https://amzn.eu/d/dPnS9sN)
-- [By the Grace of the Gods 2+](https://amzn.eu/d/aTGdOsP)
+- [By the Grace of the Gods 3+](https://amzn.eu/d/bJAfCBe) [4](https://amzn.eu/d/3TMMBr2) [5](https://amzn.eu/d/fQqZTJR) [6](https://amzn.eu/d/76ryoqg) [7](https://amzn.eu/d/56zUp8y) [8](https://amzn.eu/d/d9WOI6K) [9](https://amzn.eu/d/6P3OWqT) [10](https://amzn.eu/d/gJ4bBOx) [11](https://amzn.eu/d/fnZFM16)
 - [The Saga of Tanya the Evil 6+](https://www.amazon.fr/Saga-Tanya-Evil-light-novel/dp/0316560715/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=)
 - [Arifureta 7+](https://amzn.eu/d/74KBMGr)
 - [Didn't I Say to Make My Abilities Average in the Next Life?! 8+](https://amzn.eu/d/fNh0oVN)
