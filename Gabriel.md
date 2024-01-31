@@ -11,12 +11,15 @@
 - [Death March to the Parallel World Rhapsody, Vol. 14+](https://amzn.eu/d/iOWsTjT) (j'ai jusqu'au 13) [15](https://amzn.eu/d/dyUJ5aX) [16](https://amzn.eu/d/aOXCwLF) [17](https://amzn.eu/d/7evaJus) [18](https://amzn.eu/d/5jH7XTp) [19](https://amzn.eu/d/6L55n54) [20](https://amzn.eu/d/dQifI4W) [21-preco](https://amzn.eu/d/dizSZ1k)
 - [That Time I Got Reincarnated as a Slime, Vol. 8+](https://amzn.eu/d/dPnS9sN)
 - [By the Grace of the Gods 3+](https://amzn.eu/d/bJAfCBe) [4](https://amzn.eu/d/3TMMBr2) [5](https://amzn.eu/d/fQqZTJR) [6](https://amzn.eu/d/76ryoqg) [7](https://amzn.eu/d/56zUp8y) [8](https://amzn.eu/d/d9WOI6K) [9](https://amzn.eu/d/6P3OWqT) [10](https://amzn.eu/d/gJ4bBOx) [11](https://amzn.eu/d/fnZFM16)
-- [The Saga of Tanya the Evil 6+](https://www.amazon.fr/Saga-Tanya-Evil-light-novel/dp/0316560715/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=)
+- [The Saga of Tanya the Evil 6+](https://amzn.eu/d/7OaR80q)
 - [Arifureta 7+](https://amzn.eu/d/74KBMGr)
 - [Didn't I Say to Make My Abilities Average in the Next Life?! 8+](https://amzn.eu/d/fNh0oVN)
 - [Bofuri 1+](https://amzn.eu/d/hET5ZDS)
 - [Ascendance of a Bookworm 1+](https://amzn.eu/d/adylOjg)
 - [I'm the Evil Lord of an Intergalactic Empire ! 1+](https://amzn.eu/d/2HuMn9t)
+- [7th Time Loop 1+](https://amzn.eu/d/6pkLAOe)
+- [Villainess Level 99 1+](https://amzn.eu/d/1JzA1XR)
+- [Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship! 1+](https://amzn.eu/d/2dTK6kO)
 
 #### Français
 
@@ -38,9 +41,9 @@
 
 ##### Cycle de l'Empire
 
-- [ ] Tyrann
-- [ ] Les Courants de l'espace
-- [ ] Cailloux dans le ciel
+- Tyrann
+- Les Courants de l'espace
+- Cailloux dans le ciel
 
 #### Peter F. Hamilton
 
@@ -54,7 +57,7 @@
 - Extensions pour 7 Wonders Duel
   - [Agora](https://amzn.eu/d/4GaiYmU)
   - [Pantheon](https://amzn.eu/d/cwFCRT9)
-- [Carcassonne](https://www.amazon.fr/dp/B07D19D9QJ/?coliid=IEKV560ENP84U&colid=N2LON7I7DD9B&psc=0&ref_=lv_ov_lig_dp_it)
+- [Carcassonne](https://amzn.eu/d/7SsqS5n)
 
 ### Jeux switch (par ordre de préférence)
 
