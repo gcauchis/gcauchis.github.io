@@ -20,6 +20,7 @@
 - [7th Time Loop 1+](https://amzn.eu/d/6pkLAOe)
 - [Villainess Level 99 1+](https://amzn.eu/d/1JzA1XR)
 - [Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship! 1+](https://amzn.eu/d/2dTK6kO)
+- [I'm the Evil Lord of an Intergalactic Empire! 1+](https://amzn.eu/d/hniOL6L)
 
 #### Français
 
