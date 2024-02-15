@@ -10,7 +10,7 @@
 
 - [Death March to the Parallel World Rhapsody, Vol. 14+](https://amzn.eu/d/iOWsTjT) (j'ai jusqu'au 13) [15](https://amzn.eu/d/dyUJ5aX) [16](https://amzn.eu/d/aOXCwLF) [17](https://amzn.eu/d/7evaJus) [18](https://amzn.eu/d/5jH7XTp) [19](https://amzn.eu/d/6L55n54) [20](https://amzn.eu/d/dQifI4W) [21-preco](https://amzn.eu/d/dizSZ1k)
 - [That Time I Got Reincarnated as a Slime, Vol. 8+](https://amzn.eu/d/dPnS9sN)
-- [By the Grace of the Gods 3+](https://amzn.eu/d/bJAfCBe) [4](https://amzn.eu/d/3TMMBr2) [5](https://amzn.eu/d/fQqZTJR) [6](https://amzn.eu/d/76ryoqg) [7](https://amzn.eu/d/56zUp8y) [8](https://amzn.eu/d/d9WOI6K) [9](https://amzn.eu/d/6P3OWqT) [10](https://amzn.eu/d/gJ4bBOx) [11](https://amzn.eu/d/fnZFM16)
+- [By the Grace of the Gods 6+](https://amzn.eu/d/76ryoqg) [7](https://amzn.eu/d/56zUp8y) [8](https://amzn.eu/d/d9WOI6K) [9](https://amzn.eu/d/6P3OWqT) [10](https://amzn.eu/d/gJ4bBOx) [11](https://amzn.eu/d/fnZFM16)
 - [The Saga of Tanya the Evil 6+](https://amzn.eu/d/7OaR80q)
 - [Arifureta 7+](https://amzn.eu/d/74KBMGr)
 - [Didn't I Say to Make My Abilities Average in the Next Life?! 8+](https://amzn.eu/d/fNh0oVN)
@@ -75,7 +75,6 @@
 #### Steam
 
 - [Baldur's Gate 3](https://store.steampowered.com/app/1086940/Baldurs_Gate_3/)
-- [Divinity Original Sin 2](https://store.steampowered.com/app/435150/Divinity_Original_Sin_2__Definitive_Edition/)
 - [Starfield](https://store.steampowered.com/app/1716740/STARFIELD/)
 - [Tales of Arise](https://store.steampowered.com/app/740130/Tales_of_Arise/)
 
