@@ -10,7 +10,7 @@
 
 - [Death March to the Parallel World Rhapsody, Vol. 14+](https://amzn.eu/d/iOWsTjT) (j'ai jusqu'au 13) [15](https://amzn.eu/d/dyUJ5aX) [16](https://amzn.eu/d/aOXCwLF) [17](https://amzn.eu/d/7evaJus) [18](https://amzn.eu/d/5jH7XTp) [19](https://amzn.eu/d/6L55n54) [20](https://amzn.eu/d/dQifI4W) [21-preco](https://amzn.eu/d/dizSZ1k)
 - [That Time I Got Reincarnated as a Slime, Vol. 8+](https://amzn.eu/d/dPnS9sN)
-- [By the Grace of the Gods 6+](https://amzn.eu/d/76ryoqg) [7](https://amzn.eu/d/56zUp8y) [8](https://amzn.eu/d/d9WOI6K) [9](https://amzn.eu/d/6P3OWqT) [10](https://amzn.eu/d/gJ4bBOx) [11](https://amzn.eu/d/fnZFM16)
+- [By the Grace of the Gods 7+](https://amzn.eu/d/56zUp8y) [8](https://amzn.eu/d/d9WOI6K) [9](https://amzn.eu/d/6P3OWqT) [10](https://amzn.eu/d/gJ4bBOx) [11](https://amzn.eu/d/fnZFM16)
 - [The Saga of Tanya the Evil 6+](https://amzn.eu/d/7OaR80q)
 - [Arifureta 7+](https://amzn.eu/d/74KBMGr)
 - [Didn't I Say to Make My Abilities Average in the Next Life?! 8+](https://amzn.eu/d/fNh0oVN)
@@ -25,6 +25,7 @@
 #### Français
 
 - Les Carnets de l'Apothicaire - Tome 2 + romans/light novel (lien a trouvé sortie en mars 2024)
+- [Ascendance of a Bookworm - La Petite Faiseuse de Livre](https://www.amazon.fr/dp/B09JQL1N8W?binding=paperback&ref=dbs_dp_sirpi) [2](https://amzn.eu/d/0rPjY8l)
 
 ### BD
 
@@ -104,3 +105,7 @@
 ### Meubles
 
 - Desserte de bureau (tirroires, noir, sur roulettes, hauteur max 74cm)
+
+### Cuisine
+
+- Casserole Wok (hauteur min 8cm, rayon min 28cm)
