@@ -14,17 +14,17 @@
 - [The Saga of Tanya the Evil 6+](https://amzn.eu/d/7OaR80q)
 - [Arifureta 7+](https://amzn.eu/d/74KBMGr)
 - [Didn't I Say to Make My Abilities Average in the Next Life?! 8+](https://amzn.eu/d/fNh0oVN)
+- [Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship! 1+](https://amzn.eu/d/2dTK6kO)
+- [I'm the Evil Lord of an Intergalactic Empire! 1+](https://amzn.eu/d/hniOL6L)
 - [Bofuri 1+](https://amzn.eu/d/hET5ZDS)
 - [Ascendance of a Bookworm 1+](https://amzn.eu/d/adylOjg)
 - [I'm the Evil Lord of an Intergalactic Empire ! 1+](https://amzn.eu/d/2HuMn9t)
 - [7th Time Loop 1+](https://amzn.eu/d/6pkLAOe)
 - [Villainess Level 99 1+](https://amzn.eu/d/1JzA1XR)
-- [Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship! 1+](https://amzn.eu/d/2dTK6kO)
-- [I'm the Evil Lord of an Intergalactic Empire! 1+](https://amzn.eu/d/hniOL6L)
 
 #### Français
 
-- Les Carnets de l'Apothicaire - Tome 2 + romans/light novel (lien a trouvé sortie en mars 2024)
+- Les Carnets de l'Apothicaire - Tome 3+ romans/light novel (le tome 2 est sortie en mars donc il va falloir attendre un peu)
 - [Ascendance of a Bookworm - La Petite Faiseuse de Livre](https://www.amazon.fr/dp/B09JQL1N8W?binding=paperback&ref=dbs_dp_sirpi) [2](https://amzn.eu/d/0rPjY8l)
 
 ### BD
