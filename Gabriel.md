@@ -16,9 +16,9 @@
 - [Didn't I Say to Make My Abilities Average in the Next Life?! 8+](https://amzn.eu/d/fNh0oVN)
 - [Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship! 1+](https://amzn.eu/d/2dTK6kO)
 - [I'm the Evil Lord of an Intergalactic Empire! 1+](https://amzn.eu/d/hniOL6L)
+- [Survival in Another World with My Mistress! 1+](https://amzn.eu/d/9xeK6pm) [2](https://amzn.eu/d/hE5plxq) [3](https://amzn.eu/d/3JfdH4U)
 - [Bofuri 1+](https://amzn.eu/d/hET5ZDS)
 - [Ascendance of a Bookworm 1+](https://amzn.eu/d/adylOjg)
-- [I'm the Evil Lord of an Intergalactic Empire ! 1+](https://amzn.eu/d/2HuMn9t)
 - [7th Time Loop 1+](https://amzn.eu/d/6pkLAOe)
 - [Villainess Level 99 1+](https://amzn.eu/d/1JzA1XR)
 
