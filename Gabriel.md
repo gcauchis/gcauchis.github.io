@@ -100,6 +100,10 @@
 
 - [Oculus : Meta Quest 2 — Casque de réalité virtuelle](https://amzn.eu/d/bOWv0qW)
 
+## Accessoires
+
+- Sac à dos (pour portable 17") grande contenances
+
 ## Vêtements
 
 - Polos
