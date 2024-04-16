@@ -24,7 +24,7 @@
 
 #### Français
 
-- Les Carnets de l'Apothicaire - Tome 3+ romans/light novel (le tome 2 est sortie en mars donc il va falloir attendre un peu)
+- Les Carnets de l'Apothicaire - Tome 3+ romans/light novel (le tome 3 sort le 16 mai)
 - [Ascendance of a Bookworm - La Petite Faiseuse de Livre](https://www.amazon.fr/dp/B09JQL1N8W?binding=paperback&ref=dbs_dp_sirpi) [2](https://amzn.eu/d/0rPjY8l)
 
 ### BD
