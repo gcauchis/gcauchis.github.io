@@ -10,22 +10,22 @@
 
 - [Death March to the Parallel World Rhapsody, Vol. 14+](https://amzn.eu/d/iOWsTjT) (j'ai jusqu'au 13) [15](https://amzn.eu/d/dyUJ5aX) [16](https://amzn.eu/d/aOXCwLF) [17](https://amzn.eu/d/7evaJus) [18](https://amzn.eu/d/5jH7XTp) [19](https://amzn.eu/d/6L55n54) [20](https://amzn.eu/d/dQifI4W) [21-preco](https://amzn.eu/d/dizSZ1k)
 - [That Time I Got Reincarnated as a Slime, Vol. 8+](https://amzn.eu/d/dPnS9sN)
-- [By the Grace of the Gods 7+](https://amzn.eu/d/56zUp8y) [8](https://amzn.eu/d/d9WOI6K) [9](https://amzn.eu/d/6P3OWqT) [10](https://amzn.eu/d/gJ4bBOx) [11](https://amzn.eu/d/fnZFM16)
+- [By the Grace of the Gods 8+](https://amzn.eu/d/d9WOI6K) [9](https://amzn.eu/d/6P3OWqT) [10](https://amzn.eu/d/gJ4bBOx) [11](https://amzn.eu/d/fnZFM16)
 - [The Saga of Tanya the Evil 6+](https://amzn.eu/d/7OaR80q)
 - [Arifureta 7+](https://amzn.eu/d/74KBMGr)
+- [Accomplishments of the Duke's Daughter 3+](https://amzn.eu/d/6lIHQGQ)
 - [Didn't I Say to Make My Abilities Average in the Next Life?! 8+](https://amzn.eu/d/fNh0oVN)
 - [Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship! 1+](https://amzn.eu/d/2dTK6kO)
 - [I'm the Evil Lord of an Intergalactic Empire! 1+](https://amzn.eu/d/hniOL6L)
 - [Survival in Another World with My Mistress! 1+](https://amzn.eu/d/9xeK6pm) [2](https://amzn.eu/d/hE5plxq) [3](https://amzn.eu/d/3JfdH4U)
 - [Bofuri 1+](https://amzn.eu/d/hET5ZDS)
-- [Ascendance of a Bookworm 1+](https://amzn.eu/d/adylOjg)
 - [7th Time Loop 1+](https://amzn.eu/d/6pkLAOe)
 - [Villainess Level 99 1+](https://amzn.eu/d/1JzA1XR)
 
 #### Français
 
 - Les Carnets de l'Apothicaire - Tome 3+ romans/light novel (le tome 3 sort le 16 mai)
-- [Ascendance of a Bookworm - La Petite Faiseuse de Livre](https://www.amazon.fr/dp/B09JQL1N8W?binding=paperback&ref=dbs_dp_sirpi) [2](https://amzn.eu/d/0rPjY8l)
+- [Ascendance of a Bookworm - La Petite Faiseuse de Livre 4+](https://www.amazon.fr/dp/B09JQL1N8W?binding=paperback&ref=dbs_dp_sirpi)
 
 ### BD
 
