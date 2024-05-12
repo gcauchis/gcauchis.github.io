@@ -25,7 +25,7 @@
 #### Français
 
 - Les Carnets de l'Apothicaire - Tome 3+ romans/light novel (le tome 3 sort le 16 mai)
-- [Ascendance of a Bookworm - La Petite Faiseuse de Livre 6+](https://www.amazon.fr/dp/B09JQL1N8W?binding=paperback&ref=dbs_dp_sirpi)
+- [Ascendance of a Bookworm - La Petite Faiseuse de Livre 6+](https://www.amazon.fr/dp/B09JQL1N8W?binding=paperback&ref=dbs_dp_sirpi) [Lien direct éditeur](https://boutique.lanovel-edition.fr/23-ascendance-of-a-bookworm)
 
 ### BD
 
