@@ -7,8 +7,3 @@
 ## Jeux
 
 - Voitures
-- Camion de pompier
-
-## Autres
-
-- Sac a dos

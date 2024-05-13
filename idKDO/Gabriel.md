@@ -89,15 +89,11 @@
 
 - Switch
   - Manettes au choix :
-    - [Model 1](https://nyxigaming.com/products/nyxi-wizard-wirleless-joy-pad-for-switch-switch-oled)
-    - [Model 2](https://nyxigaming.com/products/nyxi-wireless-joy-con-pad-with-color-led-lights-for-nintendo-switch)
+    - [Model 1](https://nyxigame.com/products/nyxi-hyperion-meteor-light-wireless-joy-pad-1)
+    - [Model 2](https://nyxigaming.com/products/nyxi-wizard-wirleless-joy-pad-for-switch-switch-oled)
   - [Sacoche de rangement](https://nyxigaming.com/products/nyxi-upgraded-carrying-case-for-wireless-joy-pad-nintendo-switch)
 - Eceinte bluetooth maison
 - Eceinte bluetooth voiture
-
-## Informatique
-
-- [Oculus : Meta Quest 2 — Casque de réalité virtuelle](https://amzn.eu/d/bOWv0qW)
 
 ## Accessoires
 
