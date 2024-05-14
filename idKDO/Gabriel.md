@@ -29,7 +29,7 @@
 
 ### BD
 
-- [Une mémoire de Roi] (https://amzn.eu/d/akRZFRR)
+- [Une mémoire de Roi](https://amzn.eu/d/akRZFRR)
 - Chroniques de la lune noire 22+ (j'ai jusqu'au 21)
 - Orbital 8+
 - Isabellae 2+
