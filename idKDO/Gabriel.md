@@ -73,6 +73,10 @@
 - Divinity : Original Sin 2
 - Super Mario RPG
 
+### Console
+
+- [SteamDeck](https://store.steampowered.com/steamdeck)
+
 ### Jeux PC
 
 #### Steam
