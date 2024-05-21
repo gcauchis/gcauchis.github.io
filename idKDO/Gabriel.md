@@ -14,7 +14,7 @@
 - [The Saga of Tanya the Evil 6+](https://amzn.eu/d/7OaR80q)
 - [Arifureta 7+](https://amzn.eu/d/74KBMGr)
 - [Accomplishments of the Duke's Daughter 3+](https://amzn.eu/d/6lIHQGQ) [4](https://amzn.eu/d/iWzKnDJ) [5](https://amzn.eu/d/hITR6Ek) [6](https://amzn.eu/d/j2k1F92)
-- [Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship! 1+](https://amzn.eu/d/2dTK6kO)
+- [Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship! 1+](https://amzn.eu/d/2dTK6kO) [2](https://amzn.eu/d/ebwKAzb) [3](https://amzn.eu/d/6y15BVs) [4](https://amzn.eu/d/bl94Q8U)
 - [I'm the Evil Lord of an Intergalactic Empire! 1+](https://amzn.eu/d/hniOL6L) [2](https://amzn.eu/d/830vLDJ) [3](https://amzn.eu/d/d1o56R2)
 - [Survival in Another World with My Mistress! 1+](https://amzn.eu/d/9xeK6pm) [2](https://amzn.eu/d/hE5plxq) [3](https://amzn.eu/d/3JfdH4U)
 - [Bofuri 2+](https://amzn.eu/d/977HZJq) [3](https://amzn.eu/d/bfnaSS3) [4](https://amzn.eu/d/c2s19wy) [5](https://amzn.eu/d/iTOEOXp) [6](https://amzn.eu/d/i5DttVS) [7](https://amzn.eu/d/2JEcApu) [8](https://amzn.eu/d/fkIs5Y8)
