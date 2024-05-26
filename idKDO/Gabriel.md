@@ -98,10 +98,6 @@
 - Eceinte bluetooth maison
 - Eceinte bluetooth voiture
 
-## Accessoires
-
-- Sac à dos (pour portable 17") grande contenances
-
 ## Vêtements
 
 - Polos
