@@ -13,8 +13,8 @@
 - [By the Grace of the Gods 8+](https://amzn.eu/d/d9WOI6K) [9](https://amzn.eu/d/6P3OWqT) [10](https://amzn.eu/d/gJ4bBOx) [11](https://amzn.eu/d/fnZFM16)
 - [The Saga of Tanya the Evil 6+](https://amzn.eu/d/7OaR80q)
 - [Arifureta 7+](https://amzn.eu/d/74KBMGr)
-- [Accomplishments of the Duke's Daughter 3+](https://amzn.eu/d/6lIHQGQ) [4](https://amzn.eu/d/iWzKnDJ) [5](https://amzn.eu/d/hITR6Ek) [6](https://amzn.eu/d/j2k1F92)
-- [Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship! 1+](https://amzn.eu/d/2dTK6kO) [2](https://amzn.eu/d/ebwKAzb) [3](https://amzn.eu/d/6y15BVs) [4](https://amzn.eu/d/bl94Q8U)
+- [Accomplishments of the Duke's Daughter 5+](https://amzn.eu/d/hITR6Ek) [6](https://amzn.eu/d/j2k1F92)
+- [Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship! 1+](https://amzn.eu/d/2dTK6kO) [2](https://amzn.eu/d/ebwKAzb) [3](https://amzn.eu/d/6y15BVs) [4](https://amzn.eu/d/bl94Q8U) [5](https://amzn.eu/d/90icnlV) [6](https://amzn.eu/d/ap5uSTx) [7](https://amzn.eu/d/1xg7MYZ)
 - [I'm the Evil Lord of an Intergalactic Empire! 1+](https://amzn.eu/d/hniOL6L) [2](https://amzn.eu/d/830vLDJ) [3](https://amzn.eu/d/d1o56R2)
 - [Survival in Another World with My Mistress! 1+](https://amzn.eu/d/9xeK6pm) [2](https://amzn.eu/d/hE5plxq) [3](https://amzn.eu/d/3JfdH4U)
 - [Bofuri 2+](https://amzn.eu/d/977HZJq) [3](https://amzn.eu/d/bfnaSS3) [4](https://amzn.eu/d/c2s19wy) [5](https://amzn.eu/d/iTOEOXp) [6](https://amzn.eu/d/i5DttVS) [7](https://amzn.eu/d/2JEcApu) [8](https://amzn.eu/d/fkIs5Y8)
@@ -24,7 +24,7 @@
 
 #### Français
 
-- [Les Carnets de l'Apothicaire - Tome 3+](https://amzn.eu/d/cT8CFEv) romans/light novel edition LUMEN
+- Les Carnets de l'Apothicaire - Tome 4+ romans/light novel edition LUMEN (date de sortie non definis)
 - [Ascendance of a Bookworm - La Petite Faiseuse de Livre 6+](https://www.amazon.fr/dp/B09JQL1N8W?binding=paperback&ref=dbs_dp_sirpi) [La-Novel Edition](https://boutique.lanovel-edition.fr/23-ascendance-of-a-bookworm) (pas de date de sortie poue le tome 6...)
 
 ### BD
