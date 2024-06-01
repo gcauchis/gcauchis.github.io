@@ -85,7 +85,7 @@
 
 ## Blue-Ray
 
-- Dune (2021)
+- Dune 2 (2024)
 - Logan (Wolverin 3)
 
 ## Electronique
