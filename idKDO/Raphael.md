@@ -7,3 +7,4 @@
 ## Jeux
 
 - Voitures
+- Mini établi ou cuisinière
