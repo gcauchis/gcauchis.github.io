@@ -40,7 +40,6 @@
 
 ### BD
 
-- [Une mémoire de Roi](https://amzn.eu/d/akRZFRR)
 - Chroniques de la lune noire 22+ (j'ai jusqu'au 21)
 - Orbital 8+
 - Isabellae 2+
@@ -48,6 +47,7 @@
 - Okko 3+
 - Samurai 13+
 - Les naufragés d'ythaq 3+
+- [Une mémoire de Roi](https://amzn.eu/d/akRZFRR)
 
 ### Roman
 
