@@ -26,7 +26,7 @@
 
 ##### Edition LUMEN
 
-- Les Carnets de l'Apothicaire - Tome 4+ romans/light novel edition LUMEN (date de sortie non definis)
+- Les Carnets de l'Apothicaire - Tome 4+ romans/light novel edition LUMEN (date de sortie 29/08/24)
 
 ##### Edition La-Novel
 
