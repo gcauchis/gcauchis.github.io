@@ -38,6 +38,11 @@
 - Log Horizon 4+
 - The irregular at magic High School 3+
 
+##### Edition Maho
+
+- [86](https://www.maho-editions.com/category/86-eighty-six) [1+](https://amzn.eu/d/iPsmjOu)
+- [The Eminence in Shadow](https://www.maho-editions.com/product/the-eminence-in-shadow-tome-1) [1+](https://amzn.eu/d/0SmdNYg)
+
 ### BD
 
 - Chroniques de la lune noire 22+ (j'ai jusqu'au 21)

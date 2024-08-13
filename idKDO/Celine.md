@@ -41,4 +41,4 @@
 
 #### Light Novel
 
-- [Tearmoon Empire 2+](https://amzn.eu/d/6kvqu0f)
+- [Tearmoon Empire 3+](https://amzn.eu/d/c22JStb)
