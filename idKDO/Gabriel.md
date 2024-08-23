@@ -126,6 +126,7 @@
 ### Meubles
 
 - Desserte de bureau (tirroires, noir, sur roulettes, hauteur max 74cm)
+- Meuble bar fermé
 
 ### Cuisine
 
