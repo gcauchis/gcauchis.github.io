@@ -79,6 +79,7 @@
 
 ### Jeux switch (par ordre de préférence)
 
+- Eiyuden Chronicles - Hundred Heroes!
 - Unicorn Overlord
 - Tales of Vesperia: Definitive Edition
 - Dragon Quest XI: Les combattants de la destinée
