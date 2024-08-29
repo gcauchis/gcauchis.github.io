@@ -80,6 +80,7 @@
 ### Jeux switch (par ordre de préférence)
 
 - Eiyuden Chronicles - Hundred Heroes!
+- FANTASY LIFE i : La voleuse de temps (sortie 10/10/24)
 - Unicorn Overlord
 - Tales of Vesperia: Definitive Edition
 - Dragon Quest XI: Les combattants de la destinée
