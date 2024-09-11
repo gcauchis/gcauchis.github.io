@@ -98,7 +98,6 @@
 #### Steam
 
 - [Baldur's Gate 3](https://store.steampowered.com/app/1086940/Baldurs_Gate_3/)
-- [HELLDIVERS 2](https://store.steampowered.com/app/553850/HELLDIVERS_2/)
 - [Tales of Arise](https://store.steampowered.com/app/740130/Tales_of_Arise/)
 
 ## Blue-Ray
