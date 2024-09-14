@@ -41,7 +41,7 @@
 ##### Edition Maho
 
 - [86](https://www.maho-editions.com/category/86-eighty-six) [1+](https://amzn.eu/d/iPsmjOu)
-- [The Eminence in Shadow](https://www.maho-editions.com/product/the-eminence-in-shadow-tome-1) [1+](https://amzn.eu/d/0SmdNYg)
+- The Eminence in Shadow 3+
 
 ### BD
 
