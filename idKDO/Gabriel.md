@@ -68,6 +68,10 @@
 
 - [Voir page wikipedia](https://fr.wikipedia.org/wiki/Peter_F._Hamilton#Romans)
 
+### Dev
+
+- [Mastering Regular Expressions](https://amzn.eu/d/a4D6UCu)
+
 ## Jeux
 
 ### Jeux de sociétés
