@@ -30,7 +30,7 @@
 
 ##### Edition La-Novel
 
-- [Ascendance of a Bookworm - La Petite Faiseuse de Livre 6+](https://www.amazon.fr/dp/B09JQL1N8W?binding=paperback&ref=dbs_dp_sirpi) [La-Novel Edition](https://boutique.lanovel-edition.fr/23-ascendance-of-a-bookworm) (tome 6 le sortie  le 26/11/24)
+- [Ascendance of a Bookworm - La Petite Faiseuse de Livre 6+](https://www.amazon.fr/dp/B09JQL1N8W?binding=paperback&ref=dbs_dp_sirpi) [La-Novel Edition](https://boutique.lanovel-edition.fr/23-ascendance-of-a-bookworm) (tome 6 le sortie le 26/11/24)
 
 ##### Edition OFELBE
 
@@ -83,11 +83,11 @@
 
 ### Jeux switch (par ordre de préférence)
 
-- Eiyuden Chronicles - Hundred Heroes!
 - FANTASY LIFE i : La voleuse de temps (sortie 10/10/24)
 - Unicorn Overlord
 - Tales of Vesperia: Definitive Edition
 - Dragon Quest XI: Les combattants de la destinée
+- Eiyuden Chronicles - Hundred Heroes!
 - The Legend of Zelda : Skyward Sword HD
 - Baldur's Gate 1 and 2: Enhanced Editions / Planescape Torment and Icewind Dale Enhanced Editions
 - Divinity : Original Sin 2
@@ -124,7 +124,6 @@
 - Polos
 - Veste légère
 - Pantoufles
-- Mouchoirs en tissus
 
 ## Maison
 
