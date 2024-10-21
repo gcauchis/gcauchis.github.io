@@ -104,6 +104,10 @@
 - [Baldur's Gate 3](https://store.steampowered.com/app/1086940/Baldurs_Gate_3/)
 - [Tales of Arise](https://store.steampowered.com/app/740130/Tales_of_Arise/)
 
+### Lego
+
+- [H175](https://www.lego.com/fr-fr/product/airbus-h175-rescue-helicopter-42145)
+
 ## Blue-Ray
 
 - Dune 2 (2024)
