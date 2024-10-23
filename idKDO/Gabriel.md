@@ -109,7 +109,7 @@
 - [H175](https://www.lego.com/fr-fr/product/airbus-h175-rescue-helicopter-42145)
 - [DUNE Ornithopter](https://www.lego.com/fr-fr/product/dune-atreides-royal-ornithopter-10327)
 
-## Puzzle 3D bois
+## Puzzle 3D Mécanique en Bois
 
 - [marble spacesport](https://rokr-robotime.fr/collections/nos-modeles/products/marble-spacesport)
 - [les boules infernales 3](https://rokr-robotime.fr/collections/nos-modeles/products/les-boules-infernales-3)
