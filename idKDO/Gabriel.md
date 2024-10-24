@@ -83,8 +83,11 @@
 
 ### Jeux switch (par ordre de préférence)
 
-- FANTASY LIFE i : La voleuse de temps (sortie 10/10/24)
 - Unicorn Overlord
+- FANTASY LIFE i : La voleuse de temps (sortie prevu pour 10/10/24 mais semble retarder...)
+- Fire Emblem Engage
+- Triangle strategy
+- Octopath traveler II
 - Tales of Vesperia: Definitive Edition
 - Dragon Quest XI: Les combattants de la destinée
 - Eiyuden Chronicles - Hundred Heroes!
