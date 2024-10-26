@@ -76,10 +76,10 @@
 
 ### Jeux de sociétés
 
-- Gloomhaven
 - Extensions pour 7 Wonders Duel
   - [Pantheon](https://amzn.eu/d/cwFCRT9)
 - [Carcassonne](https://amzn.eu/d/7SsqS5n)
+- Gloomhaven
 
 ### Jeux switch (par ordre de préférence)
 
@@ -90,6 +90,7 @@
 - Octopath traveler II
 - Tales of Vesperia: Definitive Edition
 - Dragon Quest XI: Les combattants de la destinée
+- Super MARIO 3D World
 - Eiyuden Chronicles - Hundred Heroes!
 - The Legend of Zelda : Skyward Sword HD
 - Baldur's Gate 1 and 2: Enhanced Editions / Planescape Torment and Icewind Dale Enhanced Editions
@@ -107,12 +108,14 @@
 - [Baldur's Gate 3](https://store.steampowered.com/app/1086940/Baldurs_Gate_3/)
 - [Tales of Arise](https://store.steampowered.com/app/740130/Tales_of_Arise/)
 
-## Lego
+### Jeux de construction
+
+#### Lego
 
 - [H175](https://www.lego.com/fr-fr/product/airbus-h175-rescue-helicopter-42145)
 - [DUNE Ornithopter](https://www.lego.com/fr-fr/product/dune-atreides-royal-ornithopter-10327)
 
-## Puzzle 3D Mécanique en Bois
+#### Puzzle 3D Mécanique en Bois
 
 - [marble spacesport](https://rokr-robotime.fr/collections/nos-modeles/products/marble-spacesport)
 - [les boules infernales 3](https://rokr-robotime.fr/collections/nos-modeles/products/les-boules-infernales-3)
