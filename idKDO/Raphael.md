@@ -14,6 +14,7 @@
 - Jeux de pêche à la ligne
 - [Camion de pompier duplo](https://www.lego.com/fr-fr/product/fire-engine-10969)
 - [Smart Games](https://www.smartgames.eu/fr/collection/jeux-préscolaires) (il a déjà les 3 petit cochons)
+- mini piano
 
 ## Livres
 
