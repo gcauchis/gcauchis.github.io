@@ -78,6 +78,7 @@
 
 - Extensions pour 7 Wonders Duel
   - [Pantheon](https://amzn.eu/d/cwFCRT9)
+- Jeux d'échecs
 - [Carcassonne](https://amzn.eu/d/7SsqS5n)
 - Gloomhaven
 
