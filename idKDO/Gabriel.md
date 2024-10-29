@@ -97,6 +97,7 @@
 - Baldur's Gate 1 and 2: Enhanced Editions / Planescape Torment and Icewind Dale Enhanced Editions
 - Divinity : Original Sin 2
 - Super Mario RPG
+- [Xenoblade Chonicle X](https://www.nintendo.com/fr-fr/Jeux/Jeux-Nintendo-Switch/Xenoblade-Chronicles-X-Definitive-Edition-2687393.html?utm_medium=paid_social&utm_source=meta&utm_campaign=XenobladeChroniclesXDefinitiveEdition%7Csoftware%7Cpreorder%7Cm_id_167d4f2fa4&utm_term=elysium&utm_creative_format=static&fbclid=IwY2xjawGN_bxleHRuA2FlbQEwAGFkaWQAAAYBlqxiOQEdKwkrX0qRV5znpQLHMTHDC79a20F44ocx8X3AqvkfOA8ypr7UvhlcJ_Fr_aem_CGIAbjI-hOnU4y9cQZbyMQ&utm_id=6602338530489&utm_content=6603536170489) (date de sortie pour mars 2026)
 
 ### Console
 
