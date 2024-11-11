@@ -127,7 +127,7 @@
 
 - Dune 2 (2024)
 - Logan (Wolverin 3)
-- [Paprika](Paprika https://amzn.eu/d/8ziJrBD)
+- [Paprika](https://amzn.eu/d/8ziJrBD)
 - les gibli
 
 ## Electronique
