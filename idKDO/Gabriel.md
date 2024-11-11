@@ -132,6 +132,7 @@
 
 ## Electronique
 
+- Casque réducteur de bruit [Sony](https://amzn.eu/d/5OauWJr)[Sacoche](https://amzn.eu/d/eD7cmi3)
 - Switch
   - Manettes au choix :
     - [Model 1](https://nyxigame.com/products/nyxi-hyperion-meteor-light-wireless-joy-pad-1)
