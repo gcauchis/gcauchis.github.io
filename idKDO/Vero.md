@@ -19,7 +19,7 @@
 
 ## Sport
 
-- cours individuels de golf de 30mn au golf de chassieu (https://bluegreen.fr/enseignements/cours/)
+- [cours individuels de golf de 30mn au golf de chassieu](https://bluegreen.fr/enseignements/cours/)
 - corde à sauter (decathlon)
 
 ## Divers
