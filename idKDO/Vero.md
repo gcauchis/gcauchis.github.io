@@ -28,3 +28,4 @@
 - Décoration salle de bain: porte-savon, gobelet, etc. style acier
 - Soin du visage Nocibé
 - Massage
+- Bracelet en pierres
