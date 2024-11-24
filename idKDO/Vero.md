@@ -8,7 +8,7 @@
 
 ## Livres
 
-- série " les détectives du Yorkshire - rendez-vous avec..." de Julia Chapman tome 3 à 10
+- Série " les détectives du Yorkshire - rendez-vous avec..." de Julia Chapman tome 3 à 10
 - Les Chroniques De St Mary - Tome 14 Le Bien, le Mal et l'Histoire de Jodi Taylor
 
 ## Blue Ray
@@ -19,12 +19,12 @@
 
 ## Sport
 
-- [cours individuels de golf de 30mn au golf de chassieu](https://bluegreen.fr/enseignements/cours/)
-- corde à sauter (decathlon)
-- tee-shirt manches longues de running pour l'hiver (taille L)
+- [Cours individuels de golf de 30mn au golf de chassieu](https://bluegreen.fr/enseignements/cours/)
+- Corde à sauter (decathlon)
+- Tee-shirt manches longues de running pour l'hiver (taille L)
 
 ## Divers
 
-- décoration salle de bain: porte-savon, gobelet, etc. style acier
-- soin du visage Nocibé
-- massage
+- Décoration salle de bain: porte-savon, gobelet, etc. style acier
+- Soin du visage Nocibé
+- Massage
