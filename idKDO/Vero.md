@@ -21,10 +21,10 @@
 
 - [cours individuels de golf de 30mn au golf de chassieu](https://bluegreen.fr/enseignements/cours/)
 - corde à sauter (decathlon)
+- tee-shirt manches longues de running pour l'hiver (taille L)
 
 ## Divers
 
 - décoration salle de bain: porte-savon, gobelet, etc. style acier
 - soin du visage Nocibé
-- massage
 - massage
