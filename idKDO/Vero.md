@@ -1,15 +1,30 @@
-# bd
-- Thorgal tome 42
-- XIII tome 29 Moscow Spaso House
-- Les tuniques bleues tome 67
-- Sillage tome 24
-- Les Fôrets d'Opale tome 15
+## bd
+
 - Blake et Mortimer tome 30 (Signé Olrik)
-- Lucky Luke tome 11 - Un cow-boy sous pression
- 
-# Livres
+- XIII tome 29 - moscow spaso house
+- Amerikkka tome 9
+- Le collège invisible tome 4 à 15
+- Le Scrameustache tome 9, tome 12, tome 14, tome 25, tome 26, tome 28, tome 30 et tome 31 - Editions Dupuis (d'occasion seulement)
+
+## Livres
+
 - série " les détectives du Yorkshire - rendez-vous avec..." de Julia Chapman tome 3 à 10
 - Les Chroniques De St Mary - Tome 14 Le Bien, le Mal et l'Histoire de Jodi Taylor
 
-# Sport
-- cours individuels de golf de 30mn au golf de chassieu (https://bluegreen.fr/enseignements/cours/)
+## Blue Ray
+
+- Deadpool et wolverine
+- Les gardiens de la galaxie vol.3
+- Shang-Chi et la légende des Dix Anneaux
+
+## Sport
+
+- [cours individuels de golf de 30mn au golf de chassieu](https://bluegreen.fr/enseignements/cours/)
+- corde à sauter (decathlon)
+
+## Divers
+
+- décoration salle de bain: porte-savon, gobelet, etc. style acier
+- soin du visage Nocibé
+- massage
+- massage
