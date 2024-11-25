@@ -8,7 +8,7 @@
 
 ## Livres
 
-- Série " les détectives du Yorkshire - rendez-vous avec..." de Julia Chapman tome 3 à 10
+- Série " les détectives du Yorkshire - rendez-vous avec..." de Julia Chapman tome 7 à 10
 - Les Chroniques De St Mary - Tome 14 Le Bien, le Mal et l'Histoire de Jodi Taylor
 
 ## Blue Ray
