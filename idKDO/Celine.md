@@ -1,5 +1,7 @@
 # Idées Cadeaux Céline
 
+- [Liste Véro](https://gcauchis.github.io/idKDO/Vero)
+
 ## Divers
 
 - Bon pour massage
