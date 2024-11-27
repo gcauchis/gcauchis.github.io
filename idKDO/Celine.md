@@ -42,8 +42,9 @@
 
 - pilate ring
 - Porte vélo pour voiture (pour 3 vélo)
+- Bâton marche nordique 
 
-### Autres
+## Autres
 
 - crime en image - nature et découvertes
 - Menez votre propre enquête
