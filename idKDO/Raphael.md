@@ -23,6 +23,6 @@
 
 ## Maison
 
-- Rangement chambre (Voir quoi exactement (dimension, etc...))
+- ~~Rangement chambre (Voir quoi exactement (dimension, etc...))~~
 - Mini panier de basquet ?
-- Brosse a dent électrique
+- ~~Brosse a dent électrique~~
