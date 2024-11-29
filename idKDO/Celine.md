@@ -42,7 +42,7 @@
 
 - pilate ring
 - Porte vélo pour voiture (pour 3 vélo)
-- Bâton marche nordique 
+- Bâton marche nordique
 
 ## Autres
 

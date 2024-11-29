@@ -37,6 +37,7 @@
 - Overlord 6+
 - Log Horizon 4+
 - The irregular at magic High School 3+
+- LOG Horizon 4+
 
 ##### Edition Maho
 
