@@ -19,7 +19,7 @@
 
 ## Livres
 
-- 365 histoires pour le soir (on a déjà le tome 5)
+- 365 histoires pour le soir (on a déjà les tomes 1, 4 et 5)
 
 ## Maison
 
