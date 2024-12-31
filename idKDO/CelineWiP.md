@@ -8,9 +8,7 @@
 - bon pour un soin
 - place pour un spectacle d'humoriste ou autre - ex Montreux comedy
 - sac à main marron foncé ou noir – taille médiane – (qui ferme complétement avec fermeture éclair pas juste un bouton pression)
-- souris ergonomique
 - Coffret massage madérothérapie (voir nature et découverte)
-- coussin de massage shiatsu
 - cours golf (golf miramas)
 - mineraux pour ma collection
 
@@ -40,7 +38,6 @@
 
 ## Sport
 
-- pilate ring
 - Porte vélo pour voiture (pour 3 vélo)
 - Bâton marche nordique
 
