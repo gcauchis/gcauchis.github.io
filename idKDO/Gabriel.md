@@ -30,7 +30,7 @@
 
 ##### Edition La-Novel
 
-- [Ascendance of a Bookworm - La Petite Faiseuse de Livre 6+](https://www.amazon.fr/dp/B09JQL1N8W?binding=paperback&ref=dbs_dp_sirpi) [La-Novel Edition](https://boutique.lanovel-edition.fr/23-ascendance-of-a-bookworm) (tome 6 le sortie le 26/11/24)
+- [Ascendance of a Bookworm - La Petite Faiseuse de Livre 6+](https://www.amazon.fr/dp/B09JQL1N8W?binding=paperback&ref=dbs_dp_sirpi) [La-Novel Edition](https://boutique.lanovel-edition.fr/23-ascendance-of-a-bookworm) (Editeur mort mais on ne sait jamais....)
 
 ##### Edition OFELBE
 
@@ -41,8 +41,8 @@
 
 ##### Edition Maho
 
-- [86](https://www.maho-editions.com/category/86-eighty-six) [1+](https://amzn.eu/d/iPsmjOu)
 - The Eminence in Shadow 3+
+- [86](https://www.maho-editions.com/category/86-eighty-six) [1+](https://amzn.eu/d/iPsmjOu)
 
 ### BD
 
@@ -74,6 +74,7 @@
 
 ### Jeux switch (par ordre de préférence)
 
+- [Xenoblade Chonicle X](https://www.nintendo.com/fr-fr/Jeux/Jeux-Nintendo-Switch/Xenoblade-Chronicles-X-Definitive-Edition-2687393.html?utm_medium=paid_social&utm_source=meta&utm_campaign=XenobladeChroniclesXDefinitiveEdition%7Csoftware%7Cpreorder%7Cm_id_167d4f2fa4&utm_term=elysium&utm_creative_format=static&fbclid=IwY2xjawGN_bxleHRuA2FlbQEwAGFkaWQAAAYBlqxiOQEdKwkrX0qRV5znpQLHMTHDC79a20F44ocx8X3AqvkfOA8ypr7UvhlcJ_Fr_aem_CGIAbjI-hOnU4y9cQZbyMQ&utm_id=6602338530489&utm_content=6603536170489) (date de sortie pour mars 2026)
 - FANTASY LIFE i : La voleuse de temps (sortie prevu pour 10/10/24 mais semble retarder...)
 - Fire Emblem Engage
 - Triangle strategy
@@ -86,7 +87,6 @@
 - Baldur's Gate 1 and 2: Enhanced Editions / Planescape Torment and Icewind Dale Enhanced Editions
 - Divinity : Original Sin 2
 - Super Mario RPG
-- [Xenoblade Chonicle X](https://www.nintendo.com/fr-fr/Jeux/Jeux-Nintendo-Switch/Xenoblade-Chronicles-X-Definitive-Edition-2687393.html?utm_medium=paid_social&utm_source=meta&utm_campaign=XenobladeChroniclesXDefinitiveEdition%7Csoftware%7Cpreorder%7Cm_id_167d4f2fa4&utm_term=elysium&utm_creative_format=static&fbclid=IwY2xjawGN_bxleHRuA2FlbQEwAGFkaWQAAAYBlqxiOQEdKwkrX0qRV5znpQLHMTHDC79a20F44ocx8X3AqvkfOA8ypr7UvhlcJ_Fr_aem_CGIAbjI-hOnU4y9cQZbyMQ&utm_id=6602338530489&utm_content=6603536170489) (date de sortie pour mars 2026)
 
 ### Console
 
