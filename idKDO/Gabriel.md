@@ -18,7 +18,7 @@
 - [Bofuri 2+](https://amzn.eu/d/977HZJq) [3](https://amzn.eu/d/bfnaSS3) [4](https://amzn.eu/d/c2s19wy) [5](https://amzn.eu/d/iTOEOXp) [6](https://amzn.eu/d/i5DttVS) [7](https://amzn.eu/d/2JEcApu) [8](https://amzn.eu/d/fkIs5Y8)
 - [Villainess Level 99 1+](https://amzn.eu/d/9uVDKx3) (light novel pas encore editer en format papier pour le moment !)
 - [The Saga of Tanya the Evil 6+](https://amzn.eu/d/7OaR80q)
-- [Arifureta 7+](https://amzn.eu/d/90M38Lm) [8](https://amzn.eu/d/ij1hsgp) [9](https://amzn.eu/d/6v5hGqg)
+- [Arifureta 7+](https://amzn.eu/d/90M38Lm) [8](https://amzn.eu/d/ij1hsgp) [9](https://amzn.eu/d/6v5hGqg) [10](https://amzn.eu/d/7kxhOfF)
 - [Survival in Another World with My Mistress! 1+](https://amzn.eu/d/9xeK6pm) [2](https://amzn.eu/d/hE5plxq) [3](https://amzn.eu/d/3JfdH4U)
 - [Didn't I Say to Make My Abilities Average in the Next Life?! 8+](https://amzn.eu/d/fNh0oVN)
 
@@ -28,7 +28,7 @@
 
 - Les Carnets de l'Apothicaire - Tome 5+ romans/light novel edition LUMEN (date de sortie non planifier)
 
-##### Edition La-Novel
+##### Edition La-Novel (Editeur a déoposé le bilan...)
 
 - [Ascendance of a Bookworm - La Petite Faiseuse de Livre 6+](https://www.amazon.fr/dp/B09JQL1N8W?binding=paperback&ref=dbs_dp_sirpi) [La-Novel Edition](https://boutique.lanovel-edition.fr/23-ascendance-of-a-bookworm) (Editeur mort mais on ne sait jamais....)
 
@@ -41,7 +41,7 @@
 
 ##### Edition Maho
 
-- The Eminence in Shadow 3+
+- [The Eminence in Shadow](https://www.maho-editions.com/category/the-eminence-in-shadow) [3+](https://amzn.eu/d/gbkGyY1)
 - [86](https://www.maho-editions.com/category/86-eighty-six) [1+](https://amzn.eu/d/iPsmjOu)
 
 ### BD
