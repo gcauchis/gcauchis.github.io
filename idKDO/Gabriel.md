@@ -72,7 +72,7 @@
 - [Carcassonne](https://amzn.eu/d/7SsqS5n)
 - Gloomhaven
 
-### Jeux switch (par ordre de préférence)
+### Jeux switch
 
 - [Xenoblade Chonicle X](https://www.nintendo.com/fr-fr/Jeux/Jeux-Nintendo-Switch/Xenoblade-Chronicles-X-Definitive-Edition-2687393.html?utm_medium=paid_social&utm_source=meta&utm_campaign=XenobladeChroniclesXDefinitiveEdition%7Csoftware%7Cpreorder%7Cm_id_167d4f2fa4&utm_term=elysium&utm_creative_format=static&fbclid=IwY2xjawGN_bxleHRuA2FlbQEwAGFkaWQAAAYBlqxiOQEdKwkrX0qRV5znpQLHMTHDC79a20F44ocx8X3AqvkfOA8ypr7UvhlcJ_Fr_aem_CGIAbjI-hOnU4y9cQZbyMQ&utm_id=6602338530489&utm_content=6603536170489) (date de sortie pour 20 mars 2025)
 - FANTASY LIFE i : La voleuse de temps (sortie prevu pour 10/10/24 mais semble retarder...)
@@ -91,12 +91,15 @@
 ### Console
 
 - [SteamDeck](https://store.steampowered.com/steamdeck)
+- Switch 2
 
 ### Jeux PC
 
 #### Steam
 
 - [Baldur's Gate 3](https://store.steampowered.com/app/1086940/Baldurs_Gate_3/)
+- [Sid Meiers Civilization VII](https://store.steampowered.com/app/1295660/Sid_Meiers_Civilization_VII/)
+- [Horizon Forbidden West](https://store.steampowered.com/app/2420110/Horizon_Forbidden_West_Complete_Edition/)
 - [Tales of Arise](https://store.steampowered.com/app/740130/Tales_of_Arise/)
 
 ### Jeux de construction
@@ -141,7 +144,6 @@
     - [Model 2](https://nyxigaming.com/products/nyxi-wizard-wirleless-joy-pad-for-switch-switch-oled)
   - [Sacoche de rangement](https://nyxigaming.com/products/nyxi-upgraded-carrying-case-for-wireless-joy-pad-nintendo-switch)
 - Eceinte bluetooth maison
-- Eceinte bluetooth voiture
 
 ## Vêtements
 
@@ -155,6 +157,10 @@
 - [Leatherman WAVE](https://www.leatherman.com/fr_FR/wave-10.html)
 
 ## Maison
+
+## Vaiselle
+
+- Bols
 
 ### Meubles
 
