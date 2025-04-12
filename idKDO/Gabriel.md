@@ -8,12 +8,12 @@
 
 #### Anglais
 
-- [Death March to the Parallel World Rhapsody, Vol. 14+](https://amzn.eu/d/iOWsTjT) (j'ai jusqu'au 13) [15](https://amzn.eu/d/dyUJ5aX) [16](https://amzn.eu/d/aOXCwLF) [17](https://amzn.eu/d/7evaJus) [18](https://amzn.eu/d/5jH7XTp) [19](https://amzn.eu/d/6L55n54) [20](https://amzn.eu/d/dQifI4W) [21-preco](https://amzn.eu/d/dizSZ1k)
 - [Ascendance of a Bookworm : Part 3 Volume 1](https://amzn.eu/d/d4HD49m) [Part 3 Volume 2](https://amzn.eu/d/cpFWMdg) [Part 3 Volume 3](https://amzn.eu/d/cLn1PDs)
 - [By the Grace of the Gods 10+](https://amzn.eu/d/gJ4bBOx) [11](https://amzn.eu/d/fnZFM16)
+- [Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship! 1+](https://amzn.eu/d/2dTK6kO) [2](https://amzn.eu/d/ebwKAzb) [3](https://amzn.eu/d/6y15BVs) [4](https://amzn.eu/d/bl94Q8U) [5](https://amzn.eu/d/90icnlV) [6](https://amzn.eu/d/ap5uSTx) [7](https://amzn.eu/d/1xg7MYZ)
+- [Death March to the Parallel World Rhapsody, Vol. 14+](https://amzn.eu/d/iOWsTjT) (j'ai jusqu'au 13) [15](https://amzn.eu/d/dyUJ5aX) [16](https://amzn.eu/d/aOXCwLF) [17](https://amzn.eu/d/7evaJus) [18](https://amzn.eu/d/5jH7XTp) [19](https://amzn.eu/d/6L55n54) [20](https://amzn.eu/d/dQifI4W) [21-preco](https://amzn.eu/d/dizSZ1k)
 - [7th Time Loop 3+](https://amzn.eu/d/bxmT2Fb)
 - [That Time I Got Reincarnated as a Slime, Vol. 9+](https://amzn.eu/d/d1o56R2) [10](https://amzn.eu/d/g745SYq) [11](https://amzn.eu/d/8pPaKJH)
-- [Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship! 1+](https://amzn.eu/d/2dTK6kO) [2](https://amzn.eu/d/ebwKAzb) [3](https://amzn.eu/d/6y15BVs) [4](https://amzn.eu/d/bl94Q8U) [5](https://amzn.eu/d/90icnlV) [6](https://amzn.eu/d/ap5uSTx) [7](https://amzn.eu/d/1xg7MYZ)
 - [I'm the Evil Lord of an Intergalactic Empire! 1+](https://amzn.eu/d/hniOL6L) [2](https://amzn.eu/d/830vLDJ) [3](https://amzn.eu/d/d1o56R2)
 - [Bofuri 2+](https://amzn.eu/d/977HZJq) [3](https://amzn.eu/d/bfnaSS3) [4](https://amzn.eu/d/c2s19wy) [5](https://amzn.eu/d/iTOEOXp) [6](https://amzn.eu/d/i5DttVS) [7](https://amzn.eu/d/2JEcApu) [8](https://amzn.eu/d/fkIs5Y8)
 - [The Saga of Tanya the Evil 6+](https://amzn.eu/d/7OaR80q)
@@ -41,7 +41,7 @@
 
 ##### Edition Maho
 
-- [The Eminence in Shadow](https://www.maho-editions.com/category/the-eminence-in-shadow) 4+
+- [The Eminence in Shadow](https://www.maho-editions.com/category/the-eminence-in-shadow) 4+ [uniquement en dématerialiser pour le moment](https://amzn.eu/d/iJe9K6Y)
 - [86](https://www.maho-editions.com/category/86-eighty-six) [1+](https://amzn.eu/d/iPsmjOu)
 
 ### BD
@@ -74,7 +74,7 @@
 
 ### Jeux switch
 
-- [Xenoblade Chonicle X](https://www.nintendo.com/fr-fr/Jeux/Jeux-Nintendo-Switch/Xenoblade-Chronicles-X-Definitive-Edition-2687393.html?utm_medium=paid_social&utm_source=meta&utm_campaign=XenobladeChroniclesXDefinitiveEdition%7Csoftware%7Cpreorder%7Cm_id_167d4f2fa4&utm_term=elysium&utm_creative_format=static&fbclid=IwY2xjawGN_bxleHRuA2FlbQEwAGFkaWQAAAYBlqxiOQEdKwkrX0qRV5znpQLHMTHDC79a20F44ocx8X3AqvkfOA8ypr7UvhlcJ_Fr_aem_CGIAbjI-hOnU4y9cQZbyMQ&utm_id=6602338530489&utm_content=6603536170489) (date de sortie pour 20 mars 2025)
+- [Xenoblade Chonicle X](https://www.nintendo.com/fr-fr/Jeux/Jeux-Nintendo-Switch/Xenoblade-Chronicles-X-Definitive-Edition-2687393.html?utm_medium=paid_social&utm_source=meta&utm_campaign=XenobladeChroniclesXDefinitiveEdition%7Csoftware%7Cpreorder%7Cm_id_167d4f2fa4&utm_term=elysium&utm_creative_format=static&fbclid=IwY2xjawGN_bxleHRuA2FlbQEwAGFkaWQAAAYBlqxiOQEdKwkrX0qRV5znpQLHMTHDC79a20F44ocx8X3AqvkfOA8ypr7UvhlcJ_Fr_aem_CGIAbjI-hOnU4y9cQZbyMQ&utm_id=6602338530489&utm_content=6603536170489)
 - FANTASY LIFE i : La voleuse de temps (sortie prevu pour 10/10/24 mais semble retarder...)
 - Fire Emblem Engage
 - Triangle strategy
@@ -82,11 +82,11 @@
 - Tales of Vesperia: Definitive Edition
 - Dragon Quest XI: Les combattants de la destinée
 - Super MARIO 3D World
-- Eiyuden Chronicles - Hundred Heroes!
-- The Legend of Zelda : Skyward Sword HD
 - Baldur's Gate 1 and 2: Enhanced Editions / Planescape Torment and Icewind Dale Enhanced Editions
 - Divinity : Original Sin 2
 - Super Mario RPG
+- Eiyuden Chronicles - Hundred Heroes!
+- The Legend of Zelda : Skyward Sword HD
 
 ### Console
 
