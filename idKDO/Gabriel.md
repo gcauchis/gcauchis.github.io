@@ -118,7 +118,12 @@
 
 ## Blue-Ray
 
+### Film
+
 - Logan (Wolverin 3)
+
+### Animation
+
 - [Paprika](https://amzn.eu/d/8ziJrBD)
 - Ghibli
   - Le voyage de Chihiro
@@ -136,6 +141,12 @@
   - Le conte de la princesse Kaguya
   - La Colline aux Coquelicots
   - Arrietty le petit monde des chapardeurs
+- Makoto Shinkai
+  - Suzume
+  - 5 Centimètres par seconde
+  - Les Enfants du temps
+  - Voyage vers Agartha
+  - La Tour au-delà des nuages
 
 ## Electronique
 
