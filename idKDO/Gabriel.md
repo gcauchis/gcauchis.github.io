@@ -125,28 +125,32 @@
 ### Animation
 
 - [Paprika](https://amzn.eu/d/8ziJrBD)
-- Ghibli
-  - Le voyage de Chihiro
-  - Porco Rosso
-  - Kiki la petite sorcière
-  - Le vent se lève
-  - Mon voisin Totoro
-  - Pompoko
-  - Le Tombeau des lucioles
-  - Souvenirs goutte à goutte
-  - Le Garçon et le Héron
-  - Si tu tends l’oreille
-  - Les contes de Terremer
-  - Ponyo sur la falaise
-  - Le conte de la princesse Kaguya
-  - La Colline aux Coquelicots
-  - Arrietty le petit monde des chapardeurs
-- Makoto Shinkai
-  - Suzume
-  - 5 Centimètres par seconde
-  - Les Enfants du temps
-  - Voyage vers Agartha
-  - La Tour au-delà des nuages
+
+#### Ghibli
+
+- Le voyage de Chihiro
+- Porco Rosso
+- Kiki la petite sorcière
+- Le vent se lève
+- Mon voisin Totoro
+- Pompoko
+- Le Tombeau des lucioles
+- Souvenirs goutte à goutte
+- Le Garçon et le Héron
+- Si tu tends l’oreille
+- Les contes de Terremer
+- Ponyo sur la falaise
+- Le conte de la princesse Kaguya
+- La Colline aux Coquelicots
+- Arrietty le petit monde des chapardeurs
+
+#### Makoto Shinkai
+
+- Suzume
+- 5 Centimètres par seconde
+- Les Enfants du temps
+- Voyage vers Agartha
+- La Tour au-delà des nuages
 
 ## Electronique
 
@@ -170,7 +174,7 @@
 
 ## Maison
 
-## Vaiselle
+### Vaiselle
 
 - Bols
 
