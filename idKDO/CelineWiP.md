@@ -1,5 +1,7 @@
 # Idées Cadeaux Céline
 
+- Montre connecté 
+
 - [Liste Véro](https://gcauchis.github.io/idKDO/Vero)
 
 ## Divers
