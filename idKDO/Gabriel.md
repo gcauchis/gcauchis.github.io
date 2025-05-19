@@ -8,8 +8,8 @@
 
 #### Anglais
 
-- [Ascendance of a Bookworm : Part 4 Volume 1](https://amzn.eu/d/7BMpUe7) [Part 4 Volume 2](https://amzn.eu/d/7hI73UP) [Part 4 Volume 3](https://amzn.eu/d/j8ishqG)
 - [By the Grace of the Gods 10+](https://amzn.eu/d/gJ4bBOx) [11](https://amzn.eu/d/fnZFM16)
+- [Ascendance of a Bookworm : Part 4 Volume 1](https://amzn.eu/d/7BMpUe7) [Part 4 Volume 2](https://amzn.eu/d/7hI73UP) [Part 4 Volume 3](https://amzn.eu/d/j8ishqG)
 - [Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship! 1+](https://amzn.eu/d/2dTK6kO) [2](https://amzn.eu/d/ebwKAzb) [3](https://amzn.eu/d/6y15BVs) [4](https://amzn.eu/d/bl94Q8U) [5](https://amzn.eu/d/90icnlV) [6](https://amzn.eu/d/ap5uSTx) [7](https://amzn.eu/d/1xg7MYZ)
 - [Death March to the Parallel World Rhapsody, Vol. 14+](https://amzn.eu/d/iOWsTjT) (j'ai jusqu'au 13) [15](https://amzn.eu/d/dyUJ5aX) [16](https://amzn.eu/d/aOXCwLF) [17](https://amzn.eu/d/7evaJus) [18](https://amzn.eu/d/5jH7XTp) [19](https://amzn.eu/d/6L55n54) [20](https://amzn.eu/d/dQifI4W) [21-preco](https://amzn.eu/d/dizSZ1k)
 - [7th Time Loop 3+](https://amzn.eu/d/bxmT2Fb)
@@ -74,7 +74,6 @@
 
 ### Jeux switch
 
-- [Xenoblade Chonicle X](https://www.nintendo.com/fr-fr/Jeux/Jeux-Nintendo-Switch/Xenoblade-Chronicles-X-Definitive-Edition-2687393.html?utm_medium=paid_social&utm_source=meta&utm_campaign=XenobladeChroniclesXDefinitiveEdition%7Csoftware%7Cpreorder%7Cm_id_167d4f2fa4&utm_term=elysium&utm_creative_format=static&fbclid=IwY2xjawGN_bxleHRuA2FlbQEwAGFkaWQAAAYBlqxiOQEdKwkrX0qRV5znpQLHMTHDC79a20F44ocx8X3AqvkfOA8ypr7UvhlcJ_Fr_aem_CGIAbjI-hOnU4y9cQZbyMQ&utm_id=6602338530489&utm_content=6603536170489)
 - FANTASY LIFE i : La voleuse de temps (sortie prevu pour 10/10/24 mais semble retarder...)
 - Fire Emblem Engage
 - Triangle strategy
@@ -155,16 +154,12 @@
 ## Electronique
 
 - Switch
-  - Manettes au choix :
-    - [Model 1](https://nyxigame.com/products/nyxi-hyperion-meteor-light-wireless-joy-pad-1)
-    - [Model 2](https://nyxigaming.com/products/nyxi-wizard-wirleless-joy-pad-for-switch-switch-oled)
-  - [Sacoche de rangement](https://nyxigaming.com/products/nyxi-upgraded-carrying-case-for-wireless-joy-pad-nintendo-switch)
+  - [Sacoche de rangement](https://nyxigame.com/products/nyxi-carrying-case-for-wizard-hyperion-athena)
 - Eceinte bluetooth maison
 
 ## Vêtements
 
 - Polos
-- Veste légère
 - Pantoufles
 
 ## Accessoires
