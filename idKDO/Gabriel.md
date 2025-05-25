@@ -127,11 +127,9 @@
 
 #### Ghibli
 
-- Le voyage de Chihiro
 - Porco Rosso
 - Kiki la petite sorcière
 - Le vent se lève
-- Mon voisin Totoro
 - Pompoko
 - Le Tombeau des lucioles
 - Souvenirs goutte à goutte
