@@ -72,9 +72,9 @@
 - [Carcassonne](https://amzn.eu/d/7SsqS5n)
 - Gloomhaven
 
-### Jeux switch
+### Jeux Switch 1
 
-- FANTASY LIFE i : La voleuse de temps (sortie prevu pour 10/10/24 mais semble retarder...)
+- FANTASY LIFE i : La voleuse de temps
 - Fire Emblem Engage
 - Triangle strategy
 - Octopath traveler II
@@ -163,8 +163,9 @@
 
 ## Accessoires
 
-- [Leatherman MICRA](https://www.leatherman.com/fr_FR/micra-20.html)
-- [Leatherman WAVE](https://www.leatherman.com/fr_FR/wave-10.html)
+- [Leatherman MICRA](https://eu.leatherman.com/fr-fr/products/micra)
+- [Leatherman WAVE](https://eu.leatherman.com/fr-fr/products/wave)
+- [Leatherman Accessoire à mousqueton](https://eu.leatherman.com/fr-fr/products/carabiner-accessory)
 
 ## Maison
 
