@@ -20,3 +20,4 @@
 ## Divers
 - Décoration salle de bain: porte-savon, gobelet, etc. style acier
 - Massage
+- Mug thermoreactif Harry Potter 
