@@ -4,10 +4,8 @@
 
 ## Sport
 
-- Montre connecté - la mienne est décédée :'(
 - Porte vélo pour voiture (pour 3 vélo)
 - Bâton marche nordique
-- Porte téléphone pour quand je vais marcher
 
 ## Divers
 
@@ -19,16 +17,11 @@
 ## Sortie
 
 - place pour un spectacle d'humoriste ou autre
-- Spectacle de linda lemay
 
 ## Deco
 
 - Carte du monde en bois avec drapeau – comme ce qu’on avait vu au marché de noel à Lyon
 - Fontaine d'intérieur
-
-## Maison
-
-- aspirateur à main sans fil
 
 ## Bien être
 
