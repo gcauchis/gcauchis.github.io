@@ -171,6 +171,10 @@
 
 ## Maison
 
+### Jardin
+
+- Plancha a gaz
+
 ### Vaiselle
 
 - Bols
