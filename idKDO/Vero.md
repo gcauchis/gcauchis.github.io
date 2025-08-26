@@ -19,8 +19,6 @@
 - Carnet de 6 cours de 30mn chez Golf Bluegreen Chassieu
 
 ## Divers
-- Mug thermoréactif Harry Potter
 - Décoration salle de bain: porte-savon, gobelet, etc. style acier
 - Massage + spa bouc bel air
-- sac ordinateur cabaia (modèle Chicago ou Londres) 
 
