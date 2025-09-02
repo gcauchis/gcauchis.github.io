@@ -8,10 +8,10 @@
 
 #### Anglais
 
-- [By the Grace of the Gods 10+](https://amzn.eu/d/gJ4bBOx) [11](https://amzn.eu/d/fnZFM16)
-- [Ascendance of a Bookworm : Part 4 Volume 7](https://amzn.eu/d/66lUTIO) [Part 4 Volume 8](https://amzn.eu/d/03p65Yu) [Part 4 Volume 9](https://amzn.eu/d/0veGTcO)
+- [By the Grace of the Gods 10+](https://amzn.eu/d/gJ4bBOx) (j'ai jusqu'au 9) [11](https://amzn.eu/d/fnZFM16)
+- [Ascendance of a Bookworm : Part 4 Volume 7](https://amzn.eu/d/66lUTIO)+ [Part 4 Volume 8](https://amzn.eu/d/03p65Yu) [Part 4 Volume 9](https://amzn.eu/d/0veGTcO)
 - [Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship! 1+](https://amzn.eu/d/2dTK6kO) [2](https://amzn.eu/d/ebwKAzb) [3](https://amzn.eu/d/6y15BVs) [4](https://amzn.eu/d/bl94Q8U) [5](https://amzn.eu/d/90icnlV) [6](https://amzn.eu/d/ap5uSTx) [7](https://amzn.eu/d/1xg7MYZ)
-- [Death March to the Parallel World Rhapsody, Vol. 14+](https://amzn.eu/d/iOWsTjT) (j'ai jusqu'au 13) [15](https://amzn.eu/d/dyUJ5aX) [16](https://amzn.eu/d/aOXCwLF) [17](https://amzn.eu/d/7evaJus) [18](https://amzn.eu/d/5jH7XTp) [19](https://amzn.eu/d/6L55n54) [20](https://amzn.eu/d/dQifI4W) [21-preco](https://amzn.eu/d/dizSZ1k)
+- [Death March to the Parallel World Rhapsody, Vol. 14+](https://amzn.eu/d/iOWsTjT) [15](https://amzn.eu/d/dyUJ5aX) [16](https://amzn.eu/d/aOXCwLF) [17](https://amzn.eu/d/7evaJus) [18](https://amzn.eu/d/5jH7XTp) [19](https://amzn.eu/d/6L55n54) [20](https://amzn.eu/d/dQifI4W) [21-preco](https://amzn.eu/d/dizSZ1k)
 - [7th Time Loop 3+](https://amzn.eu/d/bxmT2Fb)
 - [That Time I Got Reincarnated as a Slime, Vol. 9+](https://amzn.eu/d/d1o56R2) [10](https://amzn.eu/d/g745SYq) [11](https://amzn.eu/d/8pPaKJH)
 - [I'm the Evil Lord of an Intergalactic Empire! 1+](https://amzn.eu/d/hniOL6L) [2](https://amzn.eu/d/830vLDJ) [3](https://amzn.eu/d/d1o56R2)
@@ -163,12 +163,17 @@
 
 ## Accessoires
 
+- Tondeuse à barbe
+- Rasoir électrique
 - [Leatherman MICRA](https://eu.leatherman.com/fr-fr/products/micra)
 - [Leatherman WAVE](https://eu.leatherman.com/fr-fr/products/wave)
 - [Leatherman Accessoire à mousqueton](https://eu.leatherman.com/fr-fr/products/carabiner-accessory)
-- [Bouteille isotherme](https://amzn.eu/d/2ci5JNv)
 
 ## Maison
+
+### Jardin
+
+- Plancha a gaz
 
 ### Vaiselle
 
