@@ -2,6 +2,9 @@
 
 ## Jeux
 
+- Pat-patrouille
+  - Camion
+  - Hélicoptère
 - Camion
 - Avion
 - [Boite anti ennui](https://www.natureetdecouvertes.com/enfant/librairie/decouverte-apprentissage/la-boite-anti-ennui-11209630)
