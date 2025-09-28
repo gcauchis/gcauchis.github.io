@@ -17,5 +17,11 @@
 
 ## Maison
 
-- Mini panier de basquet ?
-- Parrure de lit
+- parure de lit
+- drap de lit
+- couverture
+- oreillers
+
+## Divers
+
+- vélo
