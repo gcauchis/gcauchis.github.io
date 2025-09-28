@@ -3,8 +3,8 @@
 ## Jeux
 
 - Pat-patrouille
-  - Camion
-  - Hélicoptère
+  - [Camion](https://amzn.eu/d/7L6gCK6)
+  - [Hélicoptère](https://amzn.eu/d/d6pphEk)
 - Camion
 - Avion
 - [Boite anti ennui](https://www.natureetdecouvertes.com/enfant/librairie/decouverte-apprentissage/la-boite-anti-ennui-11209630)
