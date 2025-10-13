@@ -18,17 +18,17 @@
 - [Mon premier jeu de Bataille](https://www.avenuedesjeux.com/editions-auzou-mon-premier-jeu-de-bataille.157323.html#description-nav)
 - [Jeu de 7 familles : Jeu de pige dans le lac !](https://www.avenuedesjeux.com/jeu-de-7-familles-jeu-de-pige-dans-le-lac.157349.html#description-nav)
 
-## Livre
+## Livres
 
-- [Ma Première Aventure](https://share.google/zNpQEx4dexQ9lpYxY )
- 
+- [Ma Première Aventure](https://share.google/zNpQEx4dexQ9lpYxY)
+
 ## Maison
 
 - parure de lit
 - drap de lit
 - couverture
 - oreillers
- 
+
 ## Cuisine
 
 - [Le Couteau Éducatif – Les Petits Architectes](https://share.google/l084cgu2bJOI7xyi0)

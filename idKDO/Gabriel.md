@@ -27,7 +27,7 @@
 
 ##### Edition LUMEN
 
-- Les Carnets de l'Apothicaire - Tome 5+ romans/light novel edition LUMEN
+- Les Carnets de l'Apothicaire - Tome 7+ romans/light novel edition LUMEN
 
 ##### Edition La-Novel (Editeur a déoposé le bilan...)
 
@@ -70,6 +70,7 @@
 ### Jeux de sociétés
 
 - [Carcassonne](https://amzn.eu/d/7SsqS5n)
+- [Kingdomino](https://amzn.eu/d/gN7z6j1)
 - Gloomhaven
 
 ### Jeux Switch 1
@@ -116,6 +117,13 @@
 - [les boules infernales 3](https://rokr-robotime.fr/collections/nos-modeles/products/les-boules-infernales-3)
 - [les boules infernales 2](https://rokr-robotime.fr/collections/nos-modeles/products/copie-de-les-boules-infernales-2)
 
+## Electronique
+
+- [Gamesir Mag-Res](https://gamesir.shop/pages/g7-pro-overview)
+- Switch
+  - [Sacoche de rangement](https://nyxigame.com/products/nyxi-carrying-case-for-wizard-hyperion-athena)
+- Eceinte bluetooth maison
+
 ## Blue-Ray
 
 ### Film
@@ -150,13 +158,6 @@
 - Voyage vers Agartha
 - La Tour au-delà des nuages
 
-## Electronique
-
-- [Gamesir Mag-Res](https://gamesir.shop/pages/g7-pro-overview)
-- Switch
-  - [Sacoche de rangement](https://nyxigame.com/products/nyxi-carrying-case-for-wizard-hyperion-athena)
-- Eceinte bluetooth maison
-
 ## Vêtements
 
 - Polos
@@ -182,5 +183,4 @@
 
 ### Meubles
 
-- Desserte de bureau (tirroires, noir, sur roulettes, hauteur max 74cm)
 - Meuble bar fermé
