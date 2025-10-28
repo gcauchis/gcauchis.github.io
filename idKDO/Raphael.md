@@ -24,6 +24,7 @@
 
 ## Maison
 
+- Calendier educatif
 - parure de lit
 - drap de lit
 - couverture

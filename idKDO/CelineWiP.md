@@ -9,7 +9,6 @@
 
 ## Divers
 
-- Ecran de protection pour mon écran de téléphone (voir gab) – qui ne fonce pas au soleil et protection +++ contre chute (merci Raphael) - Gab m'a parlé d'un truc mais j'ai pas retenu... Samsung A23 5G [Rhinoshield](https://shop.rhinoshield.fr/design-studio/collections/psg?utm_source=google&utm_medium=cpc&utm_content=cvs-p-ip-psg-launch-2025&gad_source=1&gad_campaignid=22452886246&gclid=CjwKCAjwl_XBBhAUEiwAWK2hzj_N-trVwRrw6x-5VAeQBXrllKnEhS5Uh_wHaBPdm_E8SZEsQ6zU7hoCnAMQAvD_BwE)
 - [stellarscope](https://www.natureetdecouvertes.com/optique-astronomie/telescopes/accessoires-astronomie/stellarscope-53162410)
 - Set outils plantes d'appartement (pour l’entretien de mes terrarium)
 - Bon achat chez armand thiery
