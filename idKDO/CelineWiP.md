@@ -36,8 +36,8 @@
 
 - Carte du monde en bois avec drapeau – comme ce qu’on avait vu au marché de noel à Lyon
 - Fontaine d'intérieur
-
 - arbre 7 chakras https://www.natureetdecouvertes.com/deco-maison/decoration/pierres-et-mineraux/arbre-7-chakras-en-pierres-naturelles-energie-et-harmonie-92786640
+- tableau sur le theme montagne enneigée/lac
 
 ## Bien être
 
@@ -61,6 +61,6 @@
 ## Film
 - les gendarmes de saint tropez
 - tom et jerry - cartoon
-- - Scooby-Doo : Collection de 50 Cartoons [[DVD]](https://amzn.eu/d/cOm48QP)
-  - sherlock holmes Scooby-Doo : Collection de 50 Cartoons https://amzn.eu/d/4jk180c
-  - 
+- Scooby-Doo : Collection de 50 Cartoons [[DVD]](https://amzn.eu/d/cOm48QP)
+- sherlock holmes Scooby-Doo : Collection de 50 Cartoons https://amzn.eu/d/4jk180c
+  
