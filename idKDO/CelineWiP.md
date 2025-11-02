@@ -18,6 +18,9 @@
 - coffret apprentissage crochet https://www.natureetdecouvertes.com/livres-loisirs/loisirs-creatifs/artisanat-savoir-faire/champy-crochet-coffret-apprentissage-du-crochet-10272330
 - support de telephone pour voiture
 - coussin massant
+- un oranger en pot
+- kit bonsai (exemple : https://www.natureetdecouvertes.com/deco-maison/plantes-interieur/plantes-atypiques/kit-bonsai-a-faire-pousser-50177010)
+- Appareil photo : objectif photo macro pour canon
 
 ## Vetements
 - Bon achat chez armand thiery
@@ -33,7 +36,7 @@
 
 - Carte du monde en bois avec drapeau – comme ce qu’on avait vu au marché de noel à Lyon
 - Fontaine d'intérieur
-- kit bonsai (exemple : https://www.natureetdecouvertes.com/deco-maison/plantes-interieur/plantes-atypiques/kit-bonsai-a-faire-pousser-50177010)
+
 - arbre 7 chakras https://www.natureetdecouvertes.com/deco-maison/decoration/pierres-et-mineraux/arbre-7-chakras-en-pierres-naturelles-energie-et-harmonie-92786640
 
 ## Bien être
