@@ -12,6 +12,10 @@
 - [stellarscope](https://www.natureetdecouvertes.com/optique-astronomie/telescopes/accessoires-astronomie/stellarscope-53162410)
 - Set outils plantes d'appartement (pour l’entretien de mes terrarium)
 - un nouveau terrarium
+- Puzzle tyhème montagne ennegiée ou lac
+- bougie fleur de cerisier : https://www.natureetdecouvertes.com/deco-maison/parfums-interieur/bougies-parfumees/bougie-qui-devient-plante-fleurcerisier-97860650
+- jeu de mahjong en bois : https://www.natureetdecouvertes.com/enfant/jeux-societe/jeux-plateau/jeu-de-mahjong-en-bois-30179370
+- coffret apprentissage crochet https://www.natureetdecouvertes.com/livres-loisirs/loisirs-creatifs/artisanat-savoir-faire/champy-crochet-coffret-apprentissage-du-crochet-10272330
 
 ## Vetements
 - Bon achat chez armand thiery
@@ -27,6 +31,8 @@
 
 - Carte du monde en bois avec drapeau – comme ce qu’on avait vu au marché de noel à Lyon
 - Fontaine d'intérieur
+- kit bonsai (exemple : https://www.natureetdecouvertes.com/deco-maison/plantes-interieur/plantes-atypiques/kit-bonsai-a-faire-pousser-50177010)
+- arbre 7 chakras https://www.natureetdecouvertes.com/deco-maison/decoration/pierres-et-mineraux/arbre-7-chakras-en-pierres-naturelles-energie-et-harmonie-92786640
 
 ## Bien être
 
