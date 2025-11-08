@@ -47,6 +47,13 @@
 - Bon pour massage
 - bon pour un soin
 
+##  Insolite
+  - rage room - lancon provence
+  - iniitation piloage drone  https://www.adrenactive.com/pilotage-drone-salon-de-provence-9159.htm
+  - escape game (en salle ou en pleine nature)
+  - chute libre indoor : https://www.adrenactive.com/simulateur-chute-libre-aix-provence-11123.htm
+  - st michel l'observatoire : https://www.centre-astro.com/grand-public/soiree-decouverte/
+
 ## Bijoux
 
 - Chaine avec pendentif en argent ou or blanc
