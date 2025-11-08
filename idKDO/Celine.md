@@ -1,6 +1,5 @@
 # Idées Cadeaux Céline
 
-- [Liste Véro](https://gcauchis.github.io/idKDO/Vero)
 
 ## Sport
 
@@ -33,6 +32,8 @@
 ## Sortie
 
 - place pour un spectacle d'humoriste ou autre (verino par exemple, shen yun)
+ - Ballet : lac des cignes au silo
+ - opéra : babier de seville - opéra de marseille
 
 ## Deco
 
