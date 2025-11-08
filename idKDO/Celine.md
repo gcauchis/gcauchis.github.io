@@ -1,6 +1,5 @@
 # Idées Cadeaux Céline
 
-- [Liste Véro](https://gcauchis.github.io/idKDO/Vero)
 
 ## Sport
 
