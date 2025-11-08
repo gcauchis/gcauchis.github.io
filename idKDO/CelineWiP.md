@@ -27,6 +27,8 @@
 - Valet de chambre   https://amzn.eu/d/0zpTVn3
 - Veste d'hiver
 - sac cabaia crossbody adventurer medium
+- sac à main - couleur marron foncé
+- Basket Skeetcher bottine ou basse - noir taille 41
 
 ## Sortie
 
@@ -47,7 +49,6 @@
 ## Bijoux
 
 - Chaine avec pendentif en argent ou or blanc
-- Bracelet en argent ou or blanc
 - bracelet jonc (maille polonaise, corde ou torsade)
 
 ## Livre
