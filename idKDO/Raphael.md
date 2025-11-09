@@ -17,6 +17,7 @@
 - [Grand memory Pokémon](https://www.avenuedesjeux.com/ravensburger-grand-memory-pokemon.2875000.html)
 - [Mon premier jeu de Bataille](https://www.avenuedesjeux.com/editions-auzou-mon-premier-jeu-de-bataille.157323.html#description-nav)
 - [Jeu de 7 familles : Jeu de pige dans le lac !](https://www.avenuedesjeux.com/jeu-de-7-familles-jeu-de-pige-dans-le-lac.157349.html#description-nav)
+- [Lapin et Magicien](https://gamesbysmart.com/fr/lapin-et-magicien?_gl=1*1dmha6v*_up*MQ..*_gs*MQ..&gclid=CjwKCAiAlMHIBhAcEiwAZhZBUtHkumTk1aYB-X-qoVQXlPup96gDExBYG5ogVhfLHWORMlDiLNV4IBoCbeMQAvD_BwE)
 
 ## Livres
 
@@ -29,6 +30,7 @@
 - drap de lit
 - couverture
 - oreillers
+- chaussons 26
 
 ## Cuisine
 
