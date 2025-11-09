@@ -6,10 +6,16 @@
 - Le collège invisible tome 4 à 15
 - Le Scrameustache tome 9, tome 12, tome 14, tome 25, tome 26, tome 28, tome 30 et tome 31 - Editions Dupuis (d'occasion seulement)
 - Alpha tome 20, Black holes
+- Spirou et Fantasia tome 57 la mémoire du futur
 
 ## Livres
 
-- le golf pour les nuls
+- Romans de Robert Galbraith En edition livre de poche pour compléter ma serie:
+* sang d encre
+* blanc mortel
+* la carrière du mal
+* le ver a soie
+- La psy de Frieda Mac Fadden En livre de poche
 
 ## Blue Ray
 
@@ -25,5 +31,8 @@
 
 - Décoration salle de bain: porte-savon, gobelet, etc. style acier
 - Massage + spa bouc bel air
-- Écouteurs Bluetooth waterproof pour courir
+- Écouteurs Bluetooth waterproof type oreillette 
 - Plaid pour mon canapé neuf (minimum en longueur de 2,3m)
+- un peu de maquillage tons discrets
+- places d opéra ou de concert
+- cabaia: 
