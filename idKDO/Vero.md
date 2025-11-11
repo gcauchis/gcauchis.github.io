@@ -7,6 +7,10 @@
 - Le Scrameustache tome 9, tome 12, tome 14, tome 25, tome 26, tome 28, tome 30 et tome 31 - Editions Dupuis (d'occasion seulement)
 - Alpha tome 20, Black holes
 - Spirou et Fantasia tome 57 la mémoire du futur
+- Le triangle Secret - Rectificando - Tome 4
+- Largo Winch - Tome 25 - si les dieux t'abandonnent
+- Thorgal - Tome 43 - la vengeance de la déesse Skaedhi
+- Sillage - Tome 2 - Alliances
 
 ## Livres
 
@@ -31,8 +35,11 @@
 
 - Décoration salle de bain: porte-savon, gobelet, etc. style acier
 - Massage + spa bouc bel air
-- Écouteurs Bluetooth waterproof type oreillette 
+- Coffret Nocibe 1h ou 2h
+- Écouteurs Bluetooth waterproof type oreillette
+- Parapluie pliant - Parapli chez Pylone (https://www.pylones.com/fr/parapluie-original-design/14409-parapluie-parapli-black-palette.html)
 - Plaid pour mon canapé neuf (minimum en longueur de 2,3m)
 - un peu de maquillage tons discrets
 - places d opéra ou de concert
-- cabaia: 
+- cabaia: porte-cartes 2.0 (https://www.cabaia.fr/collections/porte-cartes-nouvelle-version)
+- cabaia: portefeuille taille médium
