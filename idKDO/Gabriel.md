@@ -163,6 +163,7 @@
 
 - Polos
 - Pantoufles
+- Pyjama
 
 ## Accessoires
 
