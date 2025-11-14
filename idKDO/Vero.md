@@ -15,10 +15,10 @@
 ## Livres
 
 - Romans de Robert Galbraith En edition livre de poche pour compléter ma serie:
-* sang d encre
-* blanc mortel
-* la carrière du mal
-* le ver a soie
+- sang d encre
+- blanc mortel
+- la carrière du mal
+- le ver a soie
 - La psy de Frieda Mac Fadden En livre de poche
 
 ## Blue Ray
@@ -37,9 +37,9 @@
 - Massage + spa bouc bel air
 - Coffret Nocibe 1h ou 2h
 - Écouteurs Bluetooth waterproof type oreillette
-- Parapluie pliant - Parapli chez Pylone (https://www.pylones.com/fr/parapluie-original-design/14409-parapluie-parapli-black-palette.html)
+- [Parapluie pliant - Parapli chez Pylone](https://www.pylones.com/fr/parapluie-original-design/14409-parapluie-parapli-black-palette.html)
 - Plaid pour mon canapé neuf (minimum en longueur de 2,3m)
 - un peu de maquillage tons discrets
 - places d opéra ou de concert
-- cabaia: porte-cartes 2.0 (https://www.cabaia.fr/collections/porte-cartes-nouvelle-version)
+- [cabaia: porte-cartes 2.0](https://www.cabaia.fr/collections/porte-cartes-nouvelle-version)
 - cabaia: portefeuille taille médium
