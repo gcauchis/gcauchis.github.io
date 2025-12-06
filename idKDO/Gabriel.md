@@ -75,6 +75,7 @@
 
 ### Jeux Switch 1
 
+- FINAL FANTASY TACTICS – The Ivalice Chronicles
 - FANTASY LIFE i : La voleuse de temps
 - Fire Emblem Engage
 - Triangle strategy
