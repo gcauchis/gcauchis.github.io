@@ -46,14 +46,13 @@
 
 ### BD
 
-- Chroniques de la lune noire 22+ (j'ai jusqu'au 21)
+- Chroniques de la lune noire 24+ (j'ai jusqu'au 23)
 - Orbital 8+
 - Isabellae 2+
 - La quête de l'oiseau du temps 5+
 - Okko 3+
 - Samurai 13+
 - Les naufragés d'ythaq 8+
-- [Une mémoire de Roi](https://amzn.eu/d/akRZFRR)
 
 ### Roman
 
@@ -70,12 +69,10 @@
 ### Jeux de sociétés
 
 - [Carcassonne](https://amzn.eu/d/7SsqS5n)
-- [Kingdomino](https://amzn.eu/d/gN7z6j1)
 - Gloomhaven
 
 ### Jeux Switch 1
 
-- FINAL FANTASY TACTICS – The Ivalice Chronicles
 - FANTASY LIFE i : La voleuse de temps
 - Fire Emblem Engage
 - Triangle strategy
@@ -129,7 +126,6 @@
 
 ### Film
 
-- ~Logan (Wolverin 3)~
 - Watchmen : Les Gardiens
 
 ### Animation
@@ -141,12 +137,9 @@
 - Porco Rosso
 - Kiki la petite sorcière
 - Le vent se lève
-- Pompoko
 - Le Tombeau des lucioles
 - Souvenirs goutte à goutte
-- Le Garçon et le Héron
 - Si tu tends l’oreille
-- Les contes de Terremer
 - Ponyo sur la falaise
 - Le conte de la princesse Kaguya
 - La Colline aux Coquelicots
@@ -179,10 +172,6 @@
 ### Jardin
 
 - Plancha a gaz
-
-### Vaiselle
-
-- Bols
 
 ### Meubles
 
