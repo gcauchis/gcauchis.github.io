@@ -161,7 +161,6 @@
 
 ## Accessoires
 
-- Tondeuse à barbe
 - Rasoir électrique
 - [Leatherman MICRA](https://eu.leatherman.com/fr-fr/products/micra)
 - [Leatherman WAVE](https://eu.leatherman.com/fr-fr/products/wave)
