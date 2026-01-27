@@ -161,16 +161,11 @@
 
 ## Accessoires
 
-- Rasoir électrique
 - [Leatherman MICRA](https://eu.leatherman.com/fr-fr/products/micra)
 - [Leatherman WAVE](https://eu.leatherman.com/fr-fr/products/wave)
 - [Leatherman Accessoire à mousqueton](https://eu.leatherman.com/fr-fr/products/carabiner-accessory)
 
 ## Maison
-
-### Jardin
-
-- Plancha a gaz
 
 ### Meubles
 
