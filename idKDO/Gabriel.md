@@ -79,13 +79,16 @@
 - Triangle strategy
 - Octopath traveler II
 - Tales of Vesperia: Definitive Edition
+- DRAGON QUEST VII Reimagined
 - Dragon Quest XI: Les combattants de la destinée
 - Super MARIO 3D World
 - Baldur's Gate 1 and 2: Enhanced Editions / Planescape Torment and Icewind Dale Enhanced Editions
 - Divinity : Original Sin 2
-- Super Mario RPG
-- Eiyuden Chronicles - Hundred Heroes!
 - The Legend of Zelda : Skyward Sword HD
+- Super Mario RPG
+- Super Mario Galaxy
+- Civilization VII
+- Eiyuden Chronicles - Hundred Heroes!
 
 ### Console
 
