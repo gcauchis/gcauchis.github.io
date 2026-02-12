@@ -119,8 +119,6 @@
 ## Electronique
 
 - [Gamesir Mag-Res](https://gamesir.shop/pages/g7-pro-overview)
-- Switch
-  - [Sacoche de rangement](https://nyxigame.com/products/nyxi-carrying-case-for-wizard-hyperion-athena)
 - Eceinte bluetooth maison
 
 ## Blue-Ray
