@@ -120,7 +120,7 @@
 
 ## Electronique
 
-- [Gamesir Mag-Res](https://gamesir.shop/pages/g7-pro-overview)
+- [Gamesir Mag-Res](https://gamesir.com/pages/g7-pro-overview)
 - Eceinte bluetooth maison
 
 ## Blue-Ray
