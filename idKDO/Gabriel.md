@@ -18,7 +18,7 @@
 - [Bofuri 2+](https://amzn.eu/d/977HZJq) [3](https://amzn.eu/d/bfnaSS3) [4](https://amzn.eu/d/c2s19wy) [5](https://amzn.eu/d/iTOEOXp) [6](https://amzn.eu/d/i5DttVS) [7](https://amzn.eu/d/2JEcApu) [8](https://amzn.eu/d/fkIs5Y8)
 - [The Saga of Tanya the Evil 6+](https://amzn.eu/d/7OaR80q)
 - [Arifureta 7+](https://amzn.eu/d/90M38Lm) [8](https://amzn.eu/d/ij1hsgp) [9](https://amzn.eu/d/6v5hGqg) [10](https://amzn.eu/d/7kxhOfF)
-<!--- - [Survival in Another World with My Mistress! 1+](https://amzn.eu/d/9xeK6pm) [2](https://amzn.eu/d/hE5plxq) [3](https://amzn.eu/d/3JfdH4U) -->
+<!-- - [Survival in Another World with My Mistress! 1+](https://amzn.eu/d/9xeK6pm) [2](https://amzn.eu/d/hE5plxq) [3](https://amzn.eu/d/3JfdH4U) -->
 - [Didn't I Say to Make My Abilities Average in the Next Life?! 8+](https://amzn.eu/d/fNh0oVN)
 - [Accomplishments of the Duke's Daughter 6+](https://amzn.eu/d/j2k1F92)
 - [Villainess Level 99 1+](https://amzn.eu/d/9uVDKx3) (light novel pas encore editer en format papier pour le moment !)
@@ -109,7 +109,7 @@
 
 #### Lego
 
-- [H175](https://www.lego.com/fr-fr/product/airbus-h175-rescue-helicopter-42145)
+<!-- - [H175](https://www.lego.com/fr-fr/product/airbus-h175-rescue-helicopter-42145) -->
 - [DUNE Ornithopter](https://www.lego.com/fr-fr/product/dune-atreides-royal-ornithopter-10327)
 - [Château himeji](https://www.lego.com/fr-fr/product/himeji-castle-21060?ef_id=Cj0KCQjw9O_BBhCUARIsAHQMjS7lm5o-vlorMToJNxaVb6EiV8kllmBacJtOgKmmthCzVFs-uI5LU2waArKGEALw_wcB%3AG%3As&s_kwcid=AL%21933%213%21%21%21%21x%21%21%2119820147256%21&cmp=KAC-INI-GOOGEU-GO-FR_GL-FR-RE-SP-BUY-CREATE-MB_ALWAYS_ON-SHOP-BP-PMAX-ALL-CIDNA00000-PMAX-MEDIUM_PRIORITY&gad_source=1)
 
@@ -120,7 +120,7 @@
 
 ## Electronique
 
-- [Gamesir Mag-Res](https://gamesir.com/pages/g7-pro-overview)
+- [Gamesir Mag-Res](https://gamesir.com/pages/g7-pro-overview) (manette PC)
 - Eceinte bluetooth maison
 
 ## Blue-Ray
