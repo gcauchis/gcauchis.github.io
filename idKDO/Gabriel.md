@@ -99,6 +99,7 @@
 
 #### Steam
 
+- [Crimson Desert](https://store.steampowered.com/app/3321460/Crimson_Desert/)
 - [Baldur's Gate 3](https://store.steampowered.com/app/1086940/Baldurs_Gate_3/)
 - [Sid Meiers Civilization VII](https://store.steampowered.com/app/1295660/Sid_Meiers_Civilization_VII/)
 - [Horizon Forbidden West](https://store.steampowered.com/app/2420110/Horizon_Forbidden_West_Complete_Edition/)
