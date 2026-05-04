@@ -27,7 +27,7 @@
 
 ##### Edition LUMEN
 
-- Les Carnets de l'Apothicaire - Tome 7+ romans/light novel edition LUMEN
+- Les Carnets de l'Apothicaire - Tome 8+ romans/light novel edition LUMEN
 
 ##### Edition La-Novel (Editeur a déoposé le bilan...)
 
