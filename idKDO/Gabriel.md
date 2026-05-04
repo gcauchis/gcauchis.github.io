@@ -16,7 +16,7 @@
 - [That Time I Got Reincarnated as a Slime, Vol. 9+](https://amzn.eu/d/d1o56R2) [10](https://amzn.eu/d/g745SYq) [11](https://amzn.eu/d/8pPaKJH)
 - [I'm the Evil Lord of an Intergalactic Empire! 1+](https://amzn.eu/d/hniOL6L) [2](https://amzn.eu/d/830vLDJ) [3](https://amzn.eu/d/d1o56R2)
 - [Bofuri 2+](https://amzn.eu/d/977HZJq) [3](https://amzn.eu/d/bfnaSS3) [4](https://amzn.eu/d/c2s19wy) [5](https://amzn.eu/d/iTOEOXp) [6](https://amzn.eu/d/i5DttVS) [7](https://amzn.eu/d/2JEcApu) [8](https://amzn.eu/d/fkIs5Y8)
-- [The Saga of Tanya the Evil 6+](https://amzn.eu/d/7OaR80q)
+- [The Saga of Tanya the Evil 6+](https://amzn.eu/d/7OaR80q) [List](https://www.amazon.fr/dp/B084S579PF?binding=paperback&ref=dbs_dp_sirpi)
 - [Arifureta 7+](https://amzn.eu/d/90M38Lm) [8](https://amzn.eu/d/ij1hsgp) [9](https://amzn.eu/d/6v5hGqg) [10](https://amzn.eu/d/7kxhOfF)
 <!-- - [Survival in Another World with My Mistress! 1+](https://amzn.eu/d/9xeK6pm) [2](https://amzn.eu/d/hE5plxq) [3](https://amzn.eu/d/3JfdH4U) -->
 - [Didn't I Say to Make My Abilities Average in the Next Life?! 8+](https://amzn.eu/d/fNh0oVN)
