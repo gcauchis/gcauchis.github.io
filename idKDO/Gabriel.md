@@ -108,6 +108,7 @@
   - Tales of Arise - Beyond the Dawn Edition
   - Mario Kart World
   - Kirby Air Riders
+- Anbernic RG35XX Plus
 
 ### Jeux PC
 
