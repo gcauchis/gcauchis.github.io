@@ -140,6 +140,7 @@
 - Liseuse (Kindle ou autres (avec possibilité de transférer des epub))
 <!-- - [Steam Controller](https://store.steampowered.com/sale/steamcontroller)-->
 - Batterie externe charge rapide solaire (au moins 10000mAh)
+<!-- - Manette 8BitDo Ultimate Bluetooth -->
 
 ## Blue-Ray
 
