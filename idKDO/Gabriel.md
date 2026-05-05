@@ -103,7 +103,11 @@
 ### Console
 
 - [SteamDeck](https://store.steampowered.com/steamdeck)
-- Switch 2
+- Switch 2 avec au choix
+  <!-- - Fire Emblem: Fortune's Weave -->
+  - Tales of Arise - Beyond the Dawn Edition
+  - Mario Kart World
+  - Kirby Air Riders
 
 ### Jeux PC
 
@@ -111,8 +115,8 @@
 
 - **[Crimson Desert](https://store.steampowered.com/app/3321460/Crimson_Desert/)**
 - **[Baldur's Gate 3](https://store.steampowered.com/app/1086940/Baldurs_Gate_3/)**
-- [Sid Meiers Civilization VII](https://store.steampowered.com/app/1295660/Sid_Meiers_Civilization_VII/)
 - [Horizon Forbidden West](https://store.steampowered.com/app/2420110/Horizon_Forbidden_West_Complete_Edition/)
+- [Sid Meiers Civilization VII](https://store.steampowered.com/app/1295660/Sid_Meiers_Civilization_VII/)
 - [Tales of Arise](https://store.steampowered.com/app/740130/Tales_of_Arise/)
 - [=> Liste sur steam <=](https://store.steampowered.com/wishlist/id/sanby/?sort=topsellers)
 
@@ -134,12 +138,18 @@
 - **[Gamesir Mag-Res](https://gamesir.com/pages/g7-pro-overview) (manette PC)**
 - Eceinte bluetooth maison
 - Liseuse (Kindle ou autres (avec possibilité de transférer des epub))
+<!-- - [Steam Controller](https://store.steampowered.com/sale/steamcontroller)-->
+- Batterie externe charge rapide solaire (au moins 10000mAh)
 
 ## Blue-Ray
 
 ### Film
 
-- Watchmen : Les Gardiens
+- Watchmen : Les Gardiens (2009)
+- Star Wars intégral (enfin, au moins la première trilogie (4, 5, 6))
+- Blade Runner (film de 1982)
+- Qui veut la peau de Roger Rabbit (1988)
+- Star Trek : Sans limites (2016)
 
 ### Animation
 
@@ -171,6 +181,7 @@
 - Polos
 - Pantoufles
 - **[Carks Rockie Walk GORE-TEX](https://www.clarks.com/fr-fr/rockie-walk-gore-tex/26173464-p?utm_source=google&utm_medium=cpc&utm_campaign=22642182138&utm_term=&utm_content=198438526052__m_797354372147_261734648090&gad_source=1&gad_campaignid=22642182138&gclid=Cj0KCQjw2MbPBhCSARIsAP3jP9yXZfoYZRGCj5r8mB5MW9Pg6jKVFSHnRcJb8C6UcBup_DSc176n8CYaApndEALw_wcB) en 45**
+- Pyjama d'été
 
 ## Accessoires
 
