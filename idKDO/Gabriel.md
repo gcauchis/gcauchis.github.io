@@ -184,6 +184,7 @@
 - Pantoufles
 - **[Carks Rockie Walk GORE-TEX](https://www.clarks.com/fr-fr/rockie-walk-gore-tex/26173464-p?utm_source=google&utm_medium=cpc&utm_campaign=22642182138&utm_term=&utm_content=198438526052__m_797354372147_261734648090&gad_source=1&gad_campaignid=22642182138&gclid=Cj0KCQjw2MbPBhCSARIsAP3jP9yXZfoYZRGCj5r8mB5MW9Pg6jKVFSHnRcJb8C6UcBup_DSc176n8CYaApndEALw_wcB) en 45**
 - Pyjama d'été
+- Zipped hoodie (style qwertee ou teeturtle)
 
 ## Accessoires
 
