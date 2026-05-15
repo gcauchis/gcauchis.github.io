@@ -4,18 +4,14 @@
 
 - Porte vélo pour voiture (pour 3 vélo)
 - Bâton marche nordique
+- montre sport - fitbit charge 6 ou autre  fitbit5 ou autre à voir
 
-## D
+## Divers
 
-- [stellarscope](https://www.natureetdecouvertes.com/optique-astronomie/telescopes/accessoires-astronomie/stellarscope-53162410)
+- nouveau téléphone samsung
+- 
 - Set outils plantes d'appartement (pour l’entretien de mes terrarium)
 - un nouveau terrarium
-- Puzzle tyhème montagne enneigée ou lac
-- [bougie fleur de cerisier](https://www.natureetdecouvertes.com/deco-maison/parfums-interieur/bougies-parfumees/bougie-qui-devient-plante-fleurcerisier-97860650)
-- [jeu de mahjong en bois](https://www.natureetdecouvertes.com/enfant/jeux-societe/jeux-plateau/jeu-de-mahjong-en-bois-30179370)
-- [coffret apprentissage crochet](https://www.natureetdecouvertes.com/livres-loisirs/loisirs-creatifs/artisanat-savoir-faire/champy-crochet-coffret-apprentissage-du-crochet-10272330)
-- support de telephone pour voiture
-- coussin massant (vu que Rapahel a tué le mien)
 - un arbuste oranger en pot
 - kit bonsai ([exemple](https://www.natureetdecouvertes.com/deco-maison/plantes-interieur/plantes-atypiques/kit-bonsai-a-faire-pousser-50177010))
 - Appareil photo : objectif photo macro pour appareil photo canon
@@ -24,22 +20,18 @@
 
 - Bon achat chez armand thiery
 - [Valet de chambre](https://amzn.eu/d/0zpTVn3)
-- Veste d'hiver
 - sac cabaia crossbody adventurer medium
-- sac à main - couleur marron foncé
-- Basket Skeetcher bottine ou basse - noir taille 41
 
 ## Sortie
 
 - place pour un spectacle d'humoriste ou autre (verino par exemple, shen yun)
-  - Ballet : lac des cignes au silo
-  - opéra : babier de seville - opéra de marseille
+  - Ballet 
+  - opéra 
 
 ## Deco
 
 - Carte du monde en bois avec drapeau – comme ce qu’on avait vu au marché de noel à Lyon
 - Fontaine d'intérieur
-- [arbre 7 chakras](https://www.natureetdecouvertes.com/deco-maison/decoration/pierres-et-mineraux/arbre-7-chakras-en-pierres-naturelles-energie-et-harmonie-92786640)
 - tableau pour le salon - theme Alpes enneigée/lac de montagne
 
 ## Bien être
@@ -52,27 +44,23 @@
 - rage room - lancon provence
 - [initiation pilotage drone](https://www.adrenactive.com/pilotage-drone-salon-de-provence-9159.htm)
 - escape game (en salle ou en pleine nature)
-- [chute libre indoor](https://www.adrenactive.com/simulateur-chute-libre-aix-provence-11123.htm)
 - [st michel l'observatoire](https://www.centre-astro.com/grand-public/soiree-decouverte/)
 
 ## Bijoux
 
 - Chaine avec pendentif en argent ou or blanc
 - bracelet jonc (maille polonaise, corde ou torsade)
+-  bracelet type pandora
+-  boucle d'oreille
 
 ## Livre
 
-- Claude Cancès – brigade mondaine
-- Menez votre propre enquête
 - roch et mineraux - chris pellant
 - H Y ANNA - serie petit crime et jardins secret
-- [Enigme sherlock holmes](https://www.natureetdecouvertes.com/enfant/jeux-societe/casse-tete/300-enigmes-special-sherlock-holmes-10262260)
 - Preston &child serie de Pendergast
 
 ## Film
 
 - les gendarmes de saint tropez - coffret
-- tom et jerry - cartoon
-- [Scooby-Doo : Collection de 50 Cartoons](https://amzn.eu/d/cOm48QP)
 - [sherlock holmes : Collection de 50 Cartoons](https://amzn.eu/d/4jk180c)
   
