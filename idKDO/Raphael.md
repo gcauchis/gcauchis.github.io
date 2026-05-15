@@ -20,7 +20,7 @@
 
 ## Livres
 
-- [Ma Première Aventure](https://share.google/zNpQEx4dexQ9lpYxY)
+- [Ma Première Aventure](https://ma-premiere-aventure.fr/)
 
 ## Maison
 
@@ -33,8 +33,14 @@
 
 ## Cuisine
 
-- [Le Couteau Éducatif – Les Petits Architectes](https://share.google/l084cgu2bJOI7xyi0)
+- [Le Couteau Éducatif – Les Petits Architectes](https://lespetitsarchitectes.com/products/genius-cut-le-couteau-educatif-vert-coton?srsltid=AfmBOoqhTlwu-BSwj3PRt8vBmhVoBn8QWIXLjk51dorkdN8udOheWFjw)
 
 ## Divers
 
 - vélo
+
+## Idées pour plus grand
+
+- [Logo Burg](https://logoburg.de/)
+- [Bridge or Bust](https://www.upperstory.com/fr/bridgeorbust)
+- [Trackfusion](https://bebeetbambin.fr/products/trackfusion)
