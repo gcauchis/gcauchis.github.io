@@ -13,7 +13,7 @@
 - [The Saga of Tanya the Evil 6+](https://amzn.eu/d/7OaR80q) [List](https://www.amazon.fr/dp/B084S579PF?binding=paperback&ref=dbs_dp_sirpi)
 - [Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship! 1+](https://amzn.eu/d/2dTK6kO) [2](https://amzn.eu/d/ebwKAzb) [3](https://amzn.eu/d/6y15BVs) [4](https://amzn.eu/d/bl94Q8U) [5](https://amzn.eu/d/90icnlV) [6](https://amzn.eu/d/ap5uSTx) [7](https://amzn.eu/d/1xg7MYZ)
 - [Death March to the Parallel World Rhapsody, Vol. 14+](https://amzn.eu/d/iOWsTjT) [15](https://amzn.eu/d/dyUJ5aX) [16](https://amzn.eu/d/aOXCwLF) [17](https://amzn.eu/d/7evaJus) [18](https://amzn.eu/d/5jH7XTp) [19](https://amzn.eu/d/6L55n54) [20](https://amzn.eu/d/dQifI4W) [21-preco](https://amzn.eu/d/dizSZ1k)
-- [7th Time Loop 3+](https://amzn.eu/d/bxmT2Fb)
+- [7th Time Loop 4+](https://amzn.eu/d/0iqGFrM3) [List](https://www.amazon.fr/dp/B0B25F59YC?binding=paperback&ref=dbs_dp_sirpi)
 - [That Time I Got Reincarnated as a Slime, Vol. 9+](https://amzn.eu/d/d1o56R2) [10](https://amzn.eu/d/g745SYq) [11](https://amzn.eu/d/8pPaKJH)
 - [I'm the Evil Lord of an Intergalactic Empire! 1+](https://amzn.eu/d/hniOL6L) [2](https://amzn.eu/d/830vLDJ) [3](https://amzn.eu/d/d1o56R2)
 - [Bofuri 2+](https://amzn.eu/d/977HZJq) [3](https://amzn.eu/d/bfnaSS3) [4](https://amzn.eu/d/c2s19wy) [5](https://amzn.eu/d/iTOEOXp) [6](https://amzn.eu/d/i5DttVS) [7](https://amzn.eu/d/2JEcApu) [8](https://amzn.eu/d/fkIs5Y8)
@@ -59,6 +59,8 @@
 #### Peter F. Hamilton
 
 - [Voir page wikipedia](https://fr.wikipedia.org/wiki/Peter_F._Hamilton#Romans)
+  - J'ai déjà
+    - L'aube de la nuit T1
 
 ### Dev
 
@@ -85,7 +87,6 @@
 ### Jeux Switch 1
 
 - **FANTASY LIFE i : La voleuse de temps**
-- Fire Emblem Engage
 - Triangle strategy
 - Octopath traveler II
 - Tales of Vesperia: Definitive Edition
