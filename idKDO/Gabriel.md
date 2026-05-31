@@ -1,6 +1,6 @@
 # Idées Cadeaux Gabriel
 
-- [Voir Amazon](https://www.amazon.fr/hz/wishlist/ls/N2LON7I7DD9B?ref_=wl_share)
+<!--- [Voir Amazon](https://www.amazon.fr/hz/wishlist/ls/N2LON7I7DD9B?ref_=wl_share)-->
 
 ## Livres
 
@@ -13,7 +13,7 @@
 - [The Saga of Tanya the Evil 6+](https://amzn.eu/d/7OaR80q) [List](https://www.amazon.fr/dp/B084S579PF?binding=paperback&ref=dbs_dp_sirpi)
 - [Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship! 1+](https://amzn.eu/d/2dTK6kO) [2](https://amzn.eu/d/ebwKAzb) [3](https://amzn.eu/d/6y15BVs) [4](https://amzn.eu/d/bl94Q8U) [5](https://amzn.eu/d/90icnlV) [6](https://amzn.eu/d/ap5uSTx) [7](https://amzn.eu/d/1xg7MYZ)
 - [Death March to the Parallel World Rhapsody, Vol. 14+](https://amzn.eu/d/iOWsTjT) [15](https://amzn.eu/d/dyUJ5aX) [16](https://amzn.eu/d/aOXCwLF) [17](https://amzn.eu/d/7evaJus) [18](https://amzn.eu/d/5jH7XTp) [19](https://amzn.eu/d/6L55n54) [20](https://amzn.eu/d/dQifI4W) [21-preco](https://amzn.eu/d/dizSZ1k)
-- [7th Time Loop 3+](https://amzn.eu/d/bxmT2Fb)
+- [7th Time Loop 4+](https://amzn.eu/d/0iqGFrM3) [List](https://www.amazon.fr/dp/B0B25F59YC?binding=paperback&ref=dbs_dp_sirpi)
 - [That Time I Got Reincarnated as a Slime, Vol. 9+](https://amzn.eu/d/d1o56R2) [10](https://amzn.eu/d/g745SYq) [11](https://amzn.eu/d/8pPaKJH)
 - [I'm the Evil Lord of an Intergalactic Empire! 1+](https://amzn.eu/d/hniOL6L) [2](https://amzn.eu/d/830vLDJ) [3](https://amzn.eu/d/d1o56R2)
 - [Bofuri 2+](https://amzn.eu/d/977HZJq) [3](https://amzn.eu/d/bfnaSS3) [4](https://amzn.eu/d/c2s19wy) [5](https://amzn.eu/d/iTOEOXp) [6](https://amzn.eu/d/i5DttVS) [7](https://amzn.eu/d/2JEcApu) [8](https://amzn.eu/d/fkIs5Y8)
@@ -43,6 +43,7 @@
 
 - **[The Eminence in Shadow](https://www.maho-editions.com/category/the-eminence-in-shadow) [4+](https://amzn.eu/d/hC7xlUQ)**
 - **[86](https://www.maho-editions.com/category/86-eighty-six) [1+](https://amzn.eu/d/iPsmjOu)**
+- [Mynoghra, Annonciateur de l'apocalypse](https://www.maho-editions.com/category/mynoghra-annonciateur-de-lapocalypse)
 
 ### BD
 
@@ -59,6 +60,8 @@
 #### Peter F. Hamilton
 
 - [Voir page wikipedia](https://fr.wikipedia.org/wiki/Peter_F._Hamilton#Romans)
+  - J'ai déjà
+    - L'aube de la nuit T1
 
 ### Dev
 
@@ -85,7 +88,6 @@
 ### Jeux Switch 1
 
 - **FANTASY LIFE i : La voleuse de temps**
-- Fire Emblem Engage
 - Triangle strategy
 - Octopath traveler II
 - Tales of Vesperia: Definitive Edition
@@ -117,7 +119,7 @@
 - **[Crimson Desert](https://store.steampowered.com/app/3321460/Crimson_Desert/)**
 - **[Baldur's Gate 3](https://store.steampowered.com/app/1086940/Baldurs_Gate_3/)**
 - [Horizon Forbidden West](https://store.steampowered.com/app/2420110/Horizon_Forbidden_West_Complete_Edition/)
-- [Sid Meiers Civilization VII](https://store.steampowered.com/app/1295660/Sid_Meiers_Civilization_VII/)
+<!--- [Sid Meiers Civilization VII](https://store.steampowered.com/app/1295660/Sid_Meiers_Civilization_VII/)-->
 - [Tales of Arise](https://store.steampowered.com/app/740130/Tales_of_Arise/)
 - [=> Liste sur steam <=](https://store.steampowered.com/wishlist/id/sanby/?sort=topsellers)
 
@@ -126,7 +128,6 @@
 #### Lego
 
 <!-- - [H175](https://www.lego.com/fr-fr/product/airbus-h175-rescue-helicopter-42145) -->
-- [DUNE Ornithopter](https://www.lego.com/fr-fr/product/dune-atreides-royal-ornithopter-10327)
 - [Château himeji](https://www.lego.com/fr-fr/product/himeji-castle-21060?ef_id=Cj0KCQjw9O_BBhCUARIsAHQMjS7lm5o-vlorMToJNxaVb6EiV8kllmBacJtOgKmmthCzVFs-uI5LU2waArKGEALw_wcB%3AG%3As&s_kwcid=AL%21933%213%21%21%21%21x%21%21%2119820147256%21&cmp=KAC-INI-GOOGEU-GO-FR_GL-FR-RE-SP-BUY-CREATE-MB_ALWAYS_ON-SHOP-BP-PMAX-ALL-CIDNA00000-PMAX-MEDIUM_PRIORITY&gad_source=1)
 
 <!-- #### Puzzle 3D Mécanique en Bois
@@ -165,10 +166,8 @@
 - Le vent se lève
 - Le Tombeau des lucioles
 - Souvenirs goutte à goutte
-- Si tu tends l’oreille
 - Ponyo sur la falaise
 - Le conte de la princesse Kaguya
-- La Colline aux Coquelicots
 - Arrietty le petit monde des chapardeurs
 
 #### Makoto Shinkai
@@ -182,7 +181,6 @@
 ## Vêtements
 
 - Polos
-- Pantoufles
 - **[Carks Rockie Walk GORE-TEX](https://www.clarks.com/fr-fr/rockie-walk-gore-tex/26173464-p?utm_source=google&utm_medium=cpc&utm_campaign=22642182138&utm_term=&utm_content=198438526052__m_797354372147_261734648090&gad_source=1&gad_campaignid=22642182138&gclid=Cj0KCQjw2MbPBhCSARIsAP3jP9yXZfoYZRGCj5r8mB5MW9Pg6jKVFSHnRcJb8C6UcBup_DSc176n8CYaApndEALw_wcB) en 45**
 - Pyjama d'été
 - Zipped hoodie (style qwertee ou teeturtle)
