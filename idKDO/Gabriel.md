@@ -1,6 +1,6 @@
 # Idées Cadeaux Gabriel
 
-- [Voir Amazon](https://www.amazon.fr/hz/wishlist/ls/N2LON7I7DD9B?ref_=wl_share)
+<!--- [Voir Amazon](https://www.amazon.fr/hz/wishlist/ls/N2LON7I7DD9B?ref_=wl_share)-->
 
 ## Livres
 
@@ -118,7 +118,7 @@
 - **[Crimson Desert](https://store.steampowered.com/app/3321460/Crimson_Desert/)**
 - **[Baldur's Gate 3](https://store.steampowered.com/app/1086940/Baldurs_Gate_3/)**
 - [Horizon Forbidden West](https://store.steampowered.com/app/2420110/Horizon_Forbidden_West_Complete_Edition/)
-- [Sid Meiers Civilization VII](https://store.steampowered.com/app/1295660/Sid_Meiers_Civilization_VII/)
+<!--- [Sid Meiers Civilization VII](https://store.steampowered.com/app/1295660/Sid_Meiers_Civilization_VII/)-->
 - [Tales of Arise](https://store.steampowered.com/app/740130/Tales_of_Arise/)
 - [=> Liste sur steam <=](https://store.steampowered.com/wishlist/id/sanby/?sort=topsellers)
 
