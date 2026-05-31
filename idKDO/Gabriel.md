@@ -43,6 +43,7 @@
 
 - **[The Eminence in Shadow](https://www.maho-editions.com/category/the-eminence-in-shadow) [4+](https://amzn.eu/d/hC7xlUQ)**
 - **[86](https://www.maho-editions.com/category/86-eighty-six) [1+](https://amzn.eu/d/iPsmjOu)**
+- [Mynoghra, Annonciateur de l'apocalypse](https://www.maho-editions.com/category/mynoghra-annonciateur-de-lapocalypse)
 
 ### BD
 
@@ -127,7 +128,6 @@
 #### Lego
 
 <!-- - [H175](https://www.lego.com/fr-fr/product/airbus-h175-rescue-helicopter-42145) -->
-- [DUNE Ornithopter](https://www.lego.com/fr-fr/product/dune-atreides-royal-ornithopter-10327)
 - [Château himeji](https://www.lego.com/fr-fr/product/himeji-castle-21060?ef_id=Cj0KCQjw9O_BBhCUARIsAHQMjS7lm5o-vlorMToJNxaVb6EiV8kllmBacJtOgKmmthCzVFs-uI5LU2waArKGEALw_wcB%3AG%3As&s_kwcid=AL%21933%213%21%21%21%21x%21%21%2119820147256%21&cmp=KAC-INI-GOOGEU-GO-FR_GL-FR-RE-SP-BUY-CREATE-MB_ALWAYS_ON-SHOP-BP-PMAX-ALL-CIDNA00000-PMAX-MEDIUM_PRIORITY&gad_source=1)
 
 <!-- #### Puzzle 3D Mécanique en Bois
@@ -166,10 +166,8 @@
 - Le vent se lève
 - Le Tombeau des lucioles
 - Souvenirs goutte à goutte
-- Si tu tends l’oreille
 - Ponyo sur la falaise
 - Le conte de la princesse Kaguya
-- La Colline aux Coquelicots
 - Arrietty le petit monde des chapardeurs
 
 #### Makoto Shinkai
