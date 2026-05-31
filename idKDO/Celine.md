@@ -9,12 +9,19 @@
 ## Divers
 
 - nouveau téléphone samsung
-- 
 - Set outils plantes d'appartement (pour l’entretien de mes terrarium)
 - un nouveau terrarium
 - un arbuste oranger en pot
 - kit bonsai ([exemple](https://www.natureetdecouvertes.com/deco-maison/plantes-interieur/plantes-atypiques/kit-bonsai-a-faire-pousser-50177010))
 - Appareil photo : objectif photo macro pour appareil photo canon
+
+## Bijoux
+
+- Chaine avec pendentif en argent ou or blanc
+- bracelet jonc (maille polonaise, corde ou torsade)
+-  bracelet type pandora
+-  boucle d'oreille
+- bague
 
 ## Vetements
 
@@ -32,7 +39,7 @@
 
 - Carte du monde en bois avec drapeau – comme ce qu’on avait vu au marché de noel à Lyon
 - Fontaine d'intérieur
-- tableau pour le salon - theme Alpes enneigée/lac de montagne
+- tableau en plusieurs apnneaux pour le salon - theme Alpes enneigée/lac de montagne
 
 ## Bien être
 
@@ -46,12 +53,6 @@
 - escape game (en salle ou en pleine nature)
 - [st michel l'observatoire](https://www.centre-astro.com/grand-public/soiree-decouverte/)
 
-## Bijoux
-
-- Chaine avec pendentif en argent ou or blanc
-- bracelet jonc (maille polonaise, corde ou torsade)
--  bracelet type pandora
--  boucle d'oreille
 
 ## Livre
 
