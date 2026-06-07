@@ -193,6 +193,10 @@
 
 ## Maison
 
+### Entretien
+
+- [Aspirateur à cendres Kärcher AD 2](https://amzn.eu/d/0dpfWmGB)
+
 ### Meubles
 
 - Meuble bar fermé
