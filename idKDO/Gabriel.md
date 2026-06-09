@@ -88,6 +88,7 @@
 ### Jeux Switch 1
 
 - **FANTASY LIFE i : La voleuse de temps**
+- Final Fantasy Resonance
 - Triangle strategy
 - Octopath traveler II
 - Tales of Vesperia: Definitive Edition
