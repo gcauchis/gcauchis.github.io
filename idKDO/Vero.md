@@ -14,11 +14,11 @@
 ## Livres
 
 - Romans de Robert Galbraith En edition livre de poche pour compléter ma serie:
-* sang d encre
-* blanc mortel
-* la carrière du mal
-* le ver a soie
-
+1) sang d'encre
+2) blanc mortel
+3) la carrière du mal
+4) le ver a soie
+- Livre sur le Japon (guide)
 
 ## Blue Ray
 
@@ -39,6 +39,7 @@
 - Places d opéra ou de concert
 - [cabaia: porte-cartes 2.0](https://www.cabaia.fr/collections/porte-cartes-nouvelle-version)
 - Cabaia: portefeuille taille médium
+- [Cabaia : valise small 48L] (https://www.cabaia.fr/products/valise-souple-cabine-reykjavik-pochette)
 - Maquettes en bois série Harry Potter:
 * Château de Poudlard https://ugearsmodels.com/fr/collections/harry-potter/products/hogwarts-castle
 * Dragon ukrainien à panse de fer https://ugearsmodels.com/fr/collections/harry-potter/products/ukrainian-ironbelly-dragon
