@@ -107,7 +107,7 @@
 
 - [SteamDeck](https://store.steampowered.com/steamdeck)
 - Switch 2 avec au choix
-  <!-- - Fire Emblem: Fortune's Weave -->
+  - **Fire Emblem: Fortune's Weave**
   - Tales of Arise - Beyond the Dawn Edition
   - Mario Kart World
   - Kirby Air Riders
