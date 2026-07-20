@@ -157,6 +157,7 @@
 - Blade Runner (film de 1982)
 - Qui veut la peau de Roger Rabbit (1988)
 - Star Trek : Sans limites (2016)
+- Idiocracy
 
 ### Animation
 
