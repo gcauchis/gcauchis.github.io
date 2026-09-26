@@ -3,15 +3,12 @@
 ## Sport
 
 - Porte vélo pour voiture (pour 3 vélo)
-- Bâton marche nordique
-- montre sport - fitbit charge 6 ou autre  fitbit5 ou autre à voir
+
 
 ## Divers
 
 - nouveau téléphone samsung
 - Set outils plantes d'appartement (pour l’entretien de mes terrarium)
-- un nouveau terrarium
-- un arbuste oranger en pot
 - kit bonsai ([exemple](https://www.natureetdecouvertes.com/deco-maison/plantes-interieur/plantes-atypiques/kit-bonsai-a-faire-pousser-50177010))
 - Appareil photo : objectif photo macro pour appareil photo canon
 
@@ -19,7 +16,7 @@
 
 - Chaine avec pendentif en argent ou or blanc
 - bracelet jonc (maille polonaise, corde ou torsade)
--  bracelet type pandora
+-  charmes pandora
 -  boucle d'oreille
 - bague
 
@@ -63,6 +60,5 @@
 
 ## Film
 
-- les gendarmes de saint tropez - coffret
 - [sherlock holmes : Collection de 50 Cartoons](https://amzn.eu/d/4jk180c)
   
