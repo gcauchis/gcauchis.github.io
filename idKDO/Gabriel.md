@@ -202,6 +202,7 @@ I# Idées Cadeaux Gabriel
 ### Cuisine
 
 - [Planche à découper en Titane](https://get-katori.com/)
+- Aiguiseur couteaux roulant
 
 ### Entretien
 
