@@ -199,6 +199,10 @@ I# Idées Cadeaux Gabriel
 
 ## Maison
 
+### Cuisine
+
+- [Planche à découper en Titane](https://get-katori.com/)
+
 ### Entretien
 
 - [Aspirateur à cendres Kärcher AD 2](https://amzn.eu/d/0dpfWmGB)
