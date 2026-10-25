@@ -93,6 +93,7 @@ I# Idées Cadeaux Gabriel
 - Triangle strategy
 - Octopath traveler II
 - Metal Slug Tactics
+- Star Ocean: The Second Story R
 - Tales of Vesperia: Definitive Edition
 - DRAGON QUEST VII Reimagined
 - Dragon Quest XI: Les combattants de la destinée
