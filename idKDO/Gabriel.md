@@ -92,6 +92,7 @@ I# Idées Cadeaux Gabriel
 - Final Fantasy Resonance
 - Triangle strategy
 - Octopath traveler II
+- Metal Slug Tactics
 - Tales of Vesperia: Definitive Edition
 - DRAGON QUEST VII Reimagined
 - Dragon Quest XI: Les combattants de la destinée
