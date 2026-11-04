@@ -92,6 +92,7 @@ I# Idées Cadeaux Gabriel
 - Final Fantasy Resonance
 - Triangle strategy
 - Octopath traveler II
+- [FINAL FANTASY I-VI COLLECTION](https://amzn.eu/d/0gUs36aY)
 - Metal Slug Tactics
 - Star Ocean: The Second Story R
 - Tales of Vesperia: Definitive Edition
