@@ -8,6 +8,14 @@
 - Alpha tome 20, Black holes
 - Le triangle Secret - Rectificando - Tome 4
 - Sillage tome 25 Alliances
+- Thorgal tome 44 - Yggdrasil
+- Saint Lucky Luke
+- Le scorpion tome 15
+- Les tuniques bleues tome 70 - Les bleus sur la corde raide
+- Les tuniques bleues tome 68 - de l'or pour les bleus
+- Golden City tome 17
+- IRS tome 26 - L(art du profit
+- Les naufragés d'Ythaq tome 10 et au-delà 
 
 ## Livres
 
@@ -18,14 +26,14 @@
   4. le ver a soie
 - Livre sur le Japon (guide)
 
-## Blue Ray
+## Jeu switch
 
--
+- The legend of Zelda: ocarina of time remake
 
 ## Sport
 
 - [Basket Skeetcher noir taille 39](https://www.decathlon.fr/p/baskets-de-marche-sportive-femme-flex-appeal-new-hit-3-0-noir/_/R-p-X8745943?mc=8745943)
-- Veste coupe vent pluie de running noir légère (kipsta)
+- Veste coupe vent pluie de running noir légère (kipsta) chez Décathlon
 
 ## Divers
 
@@ -42,4 +50,4 @@
   - [Moto volante de Hagrid](https://ugearsmodels.com/fr/collections/harry-potter/products/hagrids-flying-motorbike)
   - [Quai 9 3/4](https://ugearsmodels.com/fr/collections/harry-potter/products/platform-9-34)
   - [Poudlard Express](https://ugearsmodels.com/fr/collections/harry-potter/products/hogwarts-express)
-- Statuettes décoration dragon ou fées 
+- Statuettes décoration dragon (https://www.legendya.com/figurines-dragons-et-statuettes-dragons-_r_708_va_1.html) ou fées 
