@@ -7,7 +7,6 @@
 
 ## Divers
 
-- nouveau téléphone samsung
 - Set outils plantes d'appartement (pour l’entretien de mes terrarium)
 - kit bonsai ([exemple](https://www.natureetdecouvertes.com/deco-maison/plantes-interieur/plantes-atypiques/kit-bonsai-a-faire-pousser-50177010))
 - Appareil photo : objectif photo macro pour appareil photo canon
