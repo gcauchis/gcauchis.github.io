@@ -3,13 +3,18 @@
 ## Sport
 
 - Porte vélo pour voiture (pour 3 vélo)
+- monoculaire ou paire de jumelle pour rando
 
 
 ## Divers
 
 - Set outils plantes d'appartement (pour l’entretien de mes terrarium)
 - kit bonsai ([exemple](https://www.natureetdecouvertes.com/deco-maison/plantes-interieur/plantes-atypiques/kit-bonsai-a-faire-pousser-50177010))
-- Appareil photo : objectif photo macro pour appareil photo canon
+-  classeur de rangement de puzzles 1500 ou 2000 pieces
+-  puzzle 1500 ou 2000 pièces
+-  sterilisateur bocaux
+-  aspirateur autonome
+-  batterie externe pour téléphone
 
 ## Bijoux
 
@@ -24,7 +29,6 @@
 - Bon achat chez armand thiery
 - [Valet de chambre](https://amzn.eu/d/0zpTVn3)
 - sac cabaia crossbody adventurer medium
-- 
 
 ## Sortie
 
@@ -36,7 +40,7 @@
 
 - Carte du monde en bois avec drapeau – comme ce qu’on avait vu au marché de noel à Lyon
 - Fontaine d'intérieur
-- tableau en plusieurs apnneaux pour le salon - theme Alpes enneigée/lac de montagne
+- tableau en plusieurs panneaux pour le salon - thème montagne, lac, neige
 
 ## Bien être
 
@@ -53,11 +57,18 @@
 
 ## Livre
 
-- roch et mineraux - chris pellant
+- Chroniques d’une Psycho de Lily Lou
 - H Y ANNA - serie petit crime et jardins secret
 - Preston &child serie de Pendergast
+- Le Grand Guide de l'Astronomie 10e ED - preface hubert reeves
+  ou Le Guide de l'astronome débutant
+- Conserves et Bocaux Maison - Le Guide Complet: 150 Recettes de Légumes, Fruits et Condiments pour Toute l'Année
+de Camille Duval (Auteur)
+- 300 énigmes Cosy crimes à l'heure du thé
+- Murdoku© l'original - 80 énigmes à résoudre pour démasquer le meurtrier
+- Les gâteaux de nos grands-mères, gourmands et réconfortants 
 
 ## Film
 
-- [sherlock holmes : Collection de 50 Cartoons](https://amzn.eu/d/4jk180c)
+
   
