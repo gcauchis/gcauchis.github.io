@@ -8,7 +8,7 @@
 - Camion
 - Avion
 - [Boite anti ennui](https://www.natureetdecouvertes.com/enfant/librairie/decouverte-apprentissage/la-boite-anti-ennui-11209630)
-- [Smart Games](https://www.smartgames.eu/fr/collection/jeux-préscolaires) (il a déjà les 3 petit cochons)
+- [Smart Games](https://www.smartgames.eu/fr/collection/jeux-préscolaires) (il a déjà les 3 petit cochons et le petit chaperon rouge)
 - mini piano
 
 ## Jeux société
@@ -29,15 +29,6 @@
 - drap de lit
 - couverture
 - oreillers
-- chaussons 26
-
-## Cuisine
-
-- [Le Couteau Éducatif – Les Petits Architectes](https://lespetitsarchitectes.com/products/genius-cut-le-couteau-educatif-vert-coton?srsltid=AfmBOoqhTlwu-BSwj3PRt8vBmhVoBn8QWIXLjk51dorkdN8udOheWFjw)
-
-## Divers
-
-- vélo
 
 ## Idées pour plus grand
 
