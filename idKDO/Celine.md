@@ -4,6 +4,7 @@
 
 - Porte vélo pour voiture (pour 3 vélo)
 - monoculaire ou paire de jumelle pour rando
+- cession réalité virtuelle type eva ou équivalent
 
 
 ## Divers
@@ -13,7 +14,7 @@
 -  classeur de rangement de puzzles 1500 ou 2000 pieces
 -  puzzle 1500 ou 2000 pièces
 -  sterilisateur bocaux
--  aspirateur autonome
+-  robot aspirateur
 -  batterie externe pour téléphone
 
 ## Bijoux
@@ -41,6 +42,7 @@
 - Carte du monde en bois avec drapeau – comme ce qu’on avait vu au marché de noel à Lyon
 - Fontaine d'intérieur
 - tableau en plusieurs panneaux pour le salon - thème montagne, lac, neige
+- Plaque Métal Décorative, Golden mountains and Tree - avec cadre bois
 
 ## Bien être
 
