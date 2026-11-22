@@ -98,6 +98,7 @@ I# Idées Cadeaux Gabriel
 - Tales of Vesperia: Definitive Edition
 - DRAGON QUEST VII Reimagined
 - Dragon Quest XI: Les combattants de la destinée
+- Village In The Shade
 - Super MARIO 3D World
 - Baldur's Gate 1 and 2: Enhanced Editions / Planescape Torment and Icewind Dale Enhanced Editions
 - Divinity : Original Sin 2
