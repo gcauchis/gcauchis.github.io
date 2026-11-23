@@ -24,11 +24,12 @@
   2. blanc mortel
   3. la carrière du mal
   4. le ver a soie
-- Livre sur le Japon (guide)
+- Livre sur le Japon (guide) - https://www.amazon.fr/gp/product/B0FPMJ6LB8/ref=ox_sc_saved_title_2?smid=A1X6FK5RDHNB96&th=1
 
 ## Jeu switch
 
-- The legend of Zelda: ocarina of time remake
+- [Ubisoft Compilation Assassin's Creed : The Rebel Collection] (https://www.amazon.fr/gp/product/B07XZB4S11/ref=ox_sc_act_title_2?smid=A1X6FK5RDHNB96&psc=1)
+- [Assassin's Creed 3 + Assassin's Creed Liberation Remaster] (https://www.amazon.fr/gp/product/B07QC3GFYR/ref=ewc_pr_img_1?smid=A1X6FK5RDHNB96&th=1)
 
 ## Sport
 
@@ -39,10 +40,10 @@
 
 - Décoration salle de bain: porte-savon, gobelet, etc. style acier
 - [Parapluie pliant - Parapli chez Pylone](https://www.pylones.com/fr/parapluie-original-design/14409-parapluie-parapli-black-palette.html)
-- Un peu de maquillage tons discrets
-- Places d opéra ou de concert
-- [cabaia: porte-cartes 2.0](https://www.cabaia.fr/collections/porte-cartes-nouvelle-version)
-- Cabaia: portefeuille taille médium
+- Imprimante pour photos sur laquelle on connecte un téléphone portable (exemples https://www.amazon.fr/s?k=impression+photo&crid=NS3FWK22EBWY&sprefix=impres%2Caps%2C128&ref=nb_sb_ss_mvt-t11-ranker_ci_hl-bn-left_2_6)
+- Places d'opéra ou de concert
+- [Cabaia: porte-cartes 2.0](https://www.cabaia.fr/collections/porte-cartes-nouvelle-version)
+- [Cabaia: portefeuille taille médium] (https://www.cabaia.fr/search?q=portefeuille+medium&options%5Bprefix%5D=last&type=product)
 - [Cabaia : valise small 48L](https://www.cabaia.fr/products/valise-souple-cabine-reykjavik-pochette)
 - Maquettes en bois série Harry Potter:
   - [Château de Poudlard](https://ugearsmodels.com/fr/collections/harry-potter/products/hogwarts-castle)
@@ -50,4 +51,4 @@
   - [Moto volante de Hagrid](https://ugearsmodels.com/fr/collections/harry-potter/products/hagrids-flying-motorbike)
   - [Quai 9 3/4](https://ugearsmodels.com/fr/collections/harry-potter/products/platform-9-34)
   - [Poudlard Express](https://ugearsmodels.com/fr/collections/harry-potter/products/hogwarts-express)
-- Statuettes décoration dragon (https://www.legendya.com/figurines-dragons-et-statuettes-dragons-_r_708_va_1.html) ou fées 
+- [Statuettes decoration dragon] (https://www.legendya.com/figurines-dragons-et-statuettes-dragons-_r_708_va_1.html) ou fées 
