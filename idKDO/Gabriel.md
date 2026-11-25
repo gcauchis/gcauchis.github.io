@@ -212,6 +212,7 @@
 ### Entretien
 
 - [Aspirateur à cendres Kärcher AD 2](https://amzn.eu/d/0dpfWmGB)
+- Panier à bûche 
 
 ### Meubles
 
