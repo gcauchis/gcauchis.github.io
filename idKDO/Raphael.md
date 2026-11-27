@@ -13,7 +13,7 @@
 ## Jeux société
 
 - [JEU DU LOUP - GARE À VOUS !](https://www.avenuedesjeux.com/editions-auzou-jeux-de-cartes-jeu-du-loup-gare-a-vous.1414050.html)
-- [Mon premier jeu de Bataille](https://www.avenuedesjeux.com/editions-auzou-mon-premier-jeu-de-bataille.157323.html#description-nav)
+- ~~[Mon premier jeu de Bataille](https://www.avenuedesjeux.com/editions-auzou-mon-premier-jeu-de-bataille.157323.html#description-nav)~~
 - [Smart Games](https://www.smartgames.eu/fr/collection/jeux-préscolaires) (il a déjà les 3 petit cochons et le petit chaperon rouge)
   ex : [Lapin et Magicien](https://gamesbysmart.com/fr/lapin-et-magicien?_gl=1*1dmha6v*_up*MQ..*_gs*MQ..&gclid=CjwKCAiAlMHIBhAcEiwAZhZBUtHkumTk1aYB-X-qoVQXlPup96gDExBYG5ogVhfLHWORMlDiLNV4IBoCbeMQAvD_BwE)
 - docteur maboul
@@ -21,6 +21,7 @@
 ## Livres
 
 - [Ma Première Aventure](https://ma-premiere-aventure.fr/)
+  - ~~Découverte de l'atlantide~~
 
 ## Maison
 
