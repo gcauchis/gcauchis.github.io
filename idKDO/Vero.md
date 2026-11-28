@@ -25,8 +25,10 @@
   3. la carrière du mal
   4. le ver a soie
 - Livre sur le Japon (guide) - https://www.amazon.fr/gp/product/B0FPMJ6LB8/ref=ox_sc_saved_title_2?smid=A1X6FK5RDHNB96&th=1
+- [Avoir le courage d'être ordinaire] (https://www.fnac.com/a22995327/Ichiro-Kishimi-Avoir-le-courage-d-etre-ordinaire#omnsearchpos=5)
+- Livre sur l'histoire du Japon 
 
-## Jeu switch
+## Jeu switch 1
 
 - [Ubisoft Compilation Assassin's Creed : The Rebel Collection] (https://www.amazon.fr/gp/product/B07XZB4S11/ref=ox_sc_act_title_2?smid=A1X6FK5RDHNB96&psc=1)
 - [Assassin's Creed 3 + Assassin's Creed Liberation Remaster] (https://www.amazon.fr/gp/product/B07QC3GFYR/ref=ewc_pr_img_1?smid=A1X6FK5RDHNB96&th=1)
@@ -34,13 +36,13 @@
 ## Sport
 
 - [Basket Skeetcher noir taille 39](https://www.decathlon.fr/p/baskets-de-marche-sportive-femme-flex-appeal-new-hit-3-0-noir/_/R-p-X8745943?mc=8745943)
-- Veste coupe vent pluie de running noir légère (kipsta) chez Décathlon
 
 ## Divers
 
 - Décoration salle de bain: porte-savon, gobelet, etc. style acier
 - [Parapluie pliant - Parapli chez Pylone](https://www.pylones.com/fr/parapluie-original-design/14409-parapluie-parapli-black-palette.html)
-- Imprimante pour photos sur laquelle on connecte un téléphone portable (exemples https://www.amazon.fr/s?k=impression+photo&crid=NS3FWK22EBWY&sprefix=impres%2Caps%2C128&ref=nb_sb_ss_mvt-t11-ranker_ci_hl-bn-left_2_6)
+- Imprimante pour photos 10x15 sur laquelle on connecte en Bluetooth un téléphone portable (exemples https://www.amazon.fr/s?k=impression+photo&crid=NS3FWK22EBWY&sprefix=impres%2Caps%2C128&ref=nb_sb_ss_mvt-t11-ranker_ci_hl-bn-left_2_6)
+- recharge papier photo si imprimante 
 - Places d'opéra ou de concert
 - [Cabaia: porte-cartes 2.0](https://www.cabaia.fr/collections/porte-cartes-nouvelle-version)
 - [Cabaia: portefeuille taille médium] (https://www.cabaia.fr/search?q=portefeuille+medium&options%5Bprefix%5D=last&type=product)
